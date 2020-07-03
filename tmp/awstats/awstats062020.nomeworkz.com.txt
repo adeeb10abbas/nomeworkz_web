@@ -1,0 +1,724 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202006 will be lost/reset.
+# Last config file used to build this data file was /home/yxsyupt24clh/tmp/awstats/awstats.nomeworkz.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2684                
+POS_VISITOR 12733               
+POS_DAY 18899               
+POS_DOMAIN 3507                
+POS_LOGIN 3960                
+POS_ROBOT 4115                
+POS_WORMS 4682                
+POS_EMAILSENDER 4813                
+POS_EMAILRECEIVER 4956                
+POS_SESSION 19683               
+POS_SIDER 19878               
+POS_FILETYPES 5091                
+POS_DOWNLOADS 5349                
+POS_OS 5438                
+POS_BROWSER 5719                
+POS_SCREENSIZE 6872                
+POS_UNKNOWNREFERER 6946                
+POS_UNKNOWNREFERERBROWSER 7556                
+POS_ORIGIN 7880                
+POS_SEREFERRALS 8019                
+POS_PAGEREFS 8182                
+POS_SEARCHWORDS 8360                
+POS_KEYWORDS 8512                
+POS_MISC 2347                
+POS_ERRORS 8571                
+POS_CLUSTER 3816                
+POS_SIDER_404 8691                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200701001955 389 94370 10221617798441
+FirstTime 0
+LastTime 20200630173235
+LastUpdate 20200701052756 389 0 388 0 0
+TotalVisits 136                 
+TotalUnique 111                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 178                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 21 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 14 42 789903 33 47 253376
+1 9 9 357819 14 18 14163
+2 4 4 174744 33 41 246667
+3 8 8 92991 16 19 28326
+4 27 67 848733 34 44 112899
+5 19 80 28977588 19 41 395098
+6 3 3 101535 24 35 7266568
+7 30 127 30695098 70 78 178493
+8 49 255 74410085 54 66 126585
+9 84 293 125429893 59 73 235636
+10 27 265 156788973 68 83 232088
+11 19 167 45646809 41 62 7105403
+12 13 53 15374463 14 29 7272043
+13 9 61 29670721 37 54 261549
+14 7 73 43466516 8 9 14163
+15 17 86 43559063 41 47 56652
+16 10 10 116298 7 8 28326
+17 6 11 337407 5 18 7077077
+18 1 1 14163 12 61 21635678
+19 3 48 28725496 54 85 29078930
+20 1 1 73209 9 16 7168355
+21 7 26 254156 20 54 698664
+22 11 64 43805691 16 25 7238373
+23 5 39 15056553 15 19 95703
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+us 235 1264 256657839
+in 70 341 67526635
+ru 33 62 1174402
+ca 10 10 401903
+gb 6 32 14567841
+fr 5 6 139581
+se 4 4 56652
+pr 4 4 50820
+ua 3 3 42489
+de 3 3 101535
+ro 3 57 15175593
+nl 2 2 87372
+cn 2 2 146418
+gr 1 1 14163
+hu 1 1 14163
+al 1 1 73209
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+Googlebot/ 85 818820 20200630180528 0
+bingbot/ 76 35654998 20200626055821 0
+bingpreview 54 58186420 20200626065909 0
+AhrefsBot/ 23 325749 20200630091157 0
+bot[\s_+:,\.\;\/\\-] 18 1258716 20200630094130 0
+YandexBot/ 4 155693 20200614111444 0
+facebookexternalhit/ 4 12877 20200602193607 0
+[\s_+:,\.\;\/\\-]bot 3 42489 20200630101249 0
+no_user_agent 2 146418 20200629212453 0
+curl 1 73209 20200601001644 0
+Wget/ 1 73209 20200601131339 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+png 583 6238618 0 0
+js 488 5570075 0 0
+jpg 75 7912788 0 0
+php 195 946017 0 0
+woff 15 91140 0 0
+css 166 2733439 0 0
+Unknown 4 50137 0 0
+woff2 2 154324 0 0
+svg 98 280175 0 0
+html 167 3716610 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/files/feature-video.mp4 14 60 420323491
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+macosx11 29 2
+linuxubuntu 42 3
+linux 383 48
+macosx9 2 2
+win7 71 14
+win10 487 105
+ios_iphone 234 19
+macosx 246 70
+win8 9 9
+linuxandroid 241 52
+winxp 9 9
+win2000 1 0
+winlong 9 9
+macosx8 1 1
+macosx10 2 2
+Unknown 87 38
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 53
+chrome80.0.3987.132 1 1
+netscape5.0 4 4
+firefox59.0 1 1
+firefox61.0 1 1
+chrome76.0.3809.132 1 1
+chrome45.0.2454.94 1 1
+chrome51.0.2704.103 8 8
+chrome83.0.4103.97 122 9
+chrome73.0.3683.90 3 3
+chrome72.0.3626.121 1 1
+chrome35.0.1916.47 1 1
+chrome69.0.3497.100 1 0
+chrome81.0.4044.113 26 1
+chrome61.0.3116.0 2 2
+Unknown 47 26
+chrome81.0.4044.138 33 5
+firefox65.0 27 0
+chrome80.0.3987.122 1 1
+safari13.0 1 1
+chrome83.0.4103.101 23 3
+firefox47.0 2 2
+chrome72.0.3626.109 1 1
+chrome48.0.2564.97 1 1
+chrome83.0.4103.106 448 97
+chrome70.0.3538.77 1 1
+chrome83.0.4103.61 150 25
+chrome41.0.2226.0 1 1
+firefox58.0 2 2
+chrome79.0.3945.88 172 5
+chrome41.0.2227.1 9 9
+edge17 1 1
+chrome71.0.3563.0 59 3
+msie5.01 1 0
+chrome49.0.2636.36 1 1
+firefox57.0 3 3
+safari13.1.1 305 20
+chrome26.0.1410.65 1 1
+firefox52.9 20 20
+chrome83.0.4103.116 185 74
+chrome81.0.4044.122 1 1
+chrome72.0.3626.119 1 1
+chrome41.0.2225.0 7 7
+mozilla 49 21
+chrome74.0.3729.169 3 3
+chrome41.0.2224.3 1 1
+firefox75.0 1 1
+chrome81.0.4044.129 14 1
+firefox63.0 55 1
+chrome58.0.3029.110 2 1
+firefox60.0 27 0
+chrome41.0.2228.0 3 3
+msie7.0 20 4
+safari 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200627221438
+Mozilla/5.0_(compatible;_ips-agent) 20200606043402
+Mozilla/5.0_(compatible;_Panscient/1.0;__http://panscient.com/faq.htm) 20200614043418
+Dispatch/0.14.0-SNAPSHOT 20200630135602
+cortex/1.0 20200620134914
+Go-http-client/1.1 20200628101537
+python-requests/2.23.0 20200623125707
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200601081545
+python-requests/2.18.4 20200626115953
+adreview/1.0 20200620134914
+python-requests/2.24.0 20200626155138
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+python-requests/2.18.4 20200626115953
+Dispatch/0.14.0-SNAPSHOT 20200630135602
+adreview/1.0 20200620134914
+python-requests/2.24.0 20200626155138
+Go-http-client/1.1 20200628101537
+cortex/1.0 20200620134914
+python-requests/2.23.0 20200623125707
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 184 382
+From1 0 0
+From2 3 3
+From3 1 1
+From4 195 1467
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://brandnewblogs.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 20 40754
+301 16 3764
+404 674 0
+101 16 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 136
+/book-movie-review-writing.html 2 -
+/v2/ 3 -
+/backup/ 3 -
+/terms.html 10 http://nomeworkz.com
+/oldsite/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/privacy 3 -
+/research-papers-writing-services.html 13 http://nomeworkz.com
+/wp1/ 3 -
+/un/get_last_order 92 http://nomeworkz.com/index.php
+/new/ 3 -
+/buy-an-essay-online.html 1 -
+/temp/ 3 -
+/old-site/ 3 -
+/public/.env 6 -
+//.env 1 -
+/coursework-writing.html 15 http://nomeworkz.com
+/wordpress/ 3 -
+/essay-writing-help-online.html 6 -
+/vendor/laravel/framework/composer.json 1 -
+/humans.txt 4 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/case-study-writing-service.html 14 http://nomeworkz.com
+/v1/wp-includes/wlwmanifest.xml 1 -
+/beta/wp-includes/wlwmanifest.xml 1 -
+/sito/ 3 -
+/cms/ 3 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/new/wp-includes/wlwmanifest.xml 1 -
+/index.html 39 http://nomeworkz.com
+/staging/wp-includes/wlwmanifest.xml 1 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+/2020/ 3 -
+/powerpoint-presentations-writing-service.html 4 -
+/correct-my-essay.html 1 -
+//blog/ 1 https://nomeworkz.com/
+/find-work-nome.html 2 -
+/tel:+18888888888 5 http://nomeworkz.com
+/wordpress 1 -
+/administrator/index.php 2 -
+/store/wp-includes/wlwmanifest.xml 1 -
+/www/wp-includes/wlwmanifest.xml 1 -
+/site/ 3 -
+/main/ 3 -
+/blog/.env 5 -
+/web/ 3 -
+/college-papers-for-sale.html 2 -
+/2019/wp-includes/wlwmanifest.xml 1 -
+/thesis-writing-help.html 2 -
+/tmp/ 3 -
+/business-plan-writing-service.html 3 -
+/admin/delete.php=id=5 1 http://nomeworkz.com/admin/add_services.php
+/bak/ 3 -
+/demo/ 3 -
+/wp-login.php 18 -
+/old/ 3 -
+/admin/ 1 -
+/test/.env 7 -
+/2019/wp-login.php 1 -
+/admin/index.html 1 http://nomeworkz.com/admin/user_registration.php
+/old-wp/ 3 -
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/2019/ 3 -
+/web.zip 1 -
+/dashboard-gnome.html 13 http://nomeworkz.com
+/admin/.env 7 -
+/write-my-dissertation.html 1 -
+/atom.xml 1 -
+/research-paper-editing-service.html 1 -
+/laravel/.env 7 -
+/shop/.env 5 -
+/bk/ 3 -
+/wp-admin/admin-ajax.php 1 -
+/wp-content/plugins/acf-options-importexport/readme.txt 1 -
+/do-my-assignment.html 2 -
+/en/wp-includes/wlwmanifest.xml 1 -
+/.git/HEAD 1 -
+/dissertation-editing.html 2 -
+/wp2/ 3 -
+/v1/ 3 -
+/admin/admin.php 1 -
+/sites/.env 7 -
+/privacy.html 11 http://nomeworkz.com
+/sitemap.xml.gz 1 -
+/godaddy 1 -
+/dev/wp-includes/wlwmanifest.xml 1 -
+/math-problems-writing-service.html 3 -
+/portal/wp-includes/wlwmanifest.xml 1 -
+/2018/ 3 -
+/administrator/ 1 -
+/scholarship-essay-writing-service.html 17 http://nomeworkz.com
+/images/ 1 -
+/wp-content/plugins/image-mass-upload-wizz/readme.txt 1 -
+/sitemap.xml 2 -
+/blogs/wp-includes/wlwmanifest.xml 1 -
+/ads.txt 5 -
+/blog 1 -
+/api/.env 6 -
+/wp/ 3 -
+/dashboard-nome.html 1 https://www.google.co.uk/
+/admin.php 1 -
+/demo/wp-includes/wlwmanifest.xml 1 -
+/xmlrpc.php 2 -
+/sitemap_index.xml 2 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/vendor/.env 7 -
+/newsite/wp-includes/wlwmanifest.xml 1 -
+/home/ 3 -
+/mysql/ 1 -
+/research-proposal-writing-service.html 2 -
+/old/wp-login.php 1 -
+/blog/ 3 -
+/+/ 3 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/sitemaps.xml 2 -
+/blog/wp-login.php 1 -
+/backup/wp-login.php 1 -
+/wp 1 -
+/Telerik.Web.UI.WebResource.axd 2 -
+/lab-report-writing-service.html 3 -
+/.env 8 -
+/system/.env 6 -
+/web/wp-includes/wlwmanifest.xml 1 -
+/adm/ 1 -
+/test/ 3 -
+/capstone-project-writing-service.html 11 -
+/pay-for-research-papers.html 2 -
+/dev/ 3 -
+/term-papers-writing-services.html 15 http://nomeworkz.com
+/news/wp-includes/wlwmanifest.xml 1 -
+/1/wp-includes/wlwmanifest.xml 1 -
+/annotated-bibliography-writing-service.html 3 -
+/refresh-csrf-token 14 http://nomeworkz.com/
+/website/wp-includes/wlwmanifest.xml 1 -
+/college-application-essay-writing.html 15 http://nomeworkz.com
+/robots.txt 95 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 178
+98.115.38.155 68 231 48840610 20200630100609
+49.32.16.195 29 132 15794676 20200624052401
+112.196.143.247 25 78 15118982 20200624082000
+5.188.62.25 20 20 34213 20200626161849
+157.37.72.121 16 22 175055 20200628074929
+108.36.92.61 16 201 80425728 20200628111603
+157.47.245.126 10 10 31810 20200603042107
+157.37.44.5 7 30 700286 20200628074921
+14.139.197.66 7 64 7851218 20200602081246
+157.37.110.15 6 15 293151 20200625095642
+188.143.169.29 6 6 439254 20200624014147
+142.4.218.156 5 5 336920 20200627221417
+157.47.215.245 5 61 7842136 20200613080625
+62.210.111.97 4 4 56652 20200609001825
+158.222.8.133 4 4 50820 20200601102208
+54.147.248.244 4 4 56652 20200604005504
+157.37.10.147 4 11 329474 20200625095630
+74.208.16.31 4 4 56652 20200623125707
+173.44.223.113 4 4 50820 20200602005257
+157.47.133.166 4 12 483800 20200629003727
+23.94.4.205 4 4 50820 20200628131934
+134.202.64.76 4 4 50820 20200630012704
+23.94.32.91 4 4 50820 20200602032155
+158.69.241.227 4 4 50820 20200630103554
+176.113.115.222 4 20 227540 20200611081702
+69.171.251.18 0 1 68766 
+183.136.225.46 2 2 146418 20200617141446
+69.171.251.11 0 2 4576 
+173.252.127.27 0 2 8998 
+66.220.149.6 0 1 15217 
+157.37.234.154 3 57 21445510 20200622093336
+104.239.6.115 1 1 73209 20200630135602
+45.79.22.169 0 28 431508 
+69.171.251.12 0 3 6521 
+47.91.45.44 1 1 14163 20200616114722
+116.202.18.172 1 1 14163 20200605064630
+49.32.25.232 1 1 12534 20200619145644
+216.145.5.42 1 1 14163 20200614211635
+69.171.251.5 0 2 73365 
+157.37.56.85 0 4 39310 
+44.233.116.236 1 1 14163 20200615230425
+104.196.198.200 2 2 28326 20200618123237
+51.89.201.9 2 2 28326 20200612155803
+91.14.224.29 1 1 14163 20200618065752
+69.171.251.16 0 2 83983 
+52.53.241.243 1 1 14163 20200612164756
+185.100.85.101 2 30 7594878 20200626123741
+54.234.217.57 1 1 73209 20200623163852
+94.158.36.183 2 2 28326 20200624071018
+66.220.149.4 0 5 38267 
+31.171.152.109 1 1 73209 20200627082043
+66.220.149.20 0 1 7135468 
+54.174.137.227 0 1 68766 
+173.252.127.28 1 5 82166 20200611230301
+69.165.11.192 1 1 73209 20200604111140
+173.252.127.30 0 1 68766 
+69.171.251.19 0 3 48517 
+157.37.108.93 2 2 2622 20200628094316
+199.244.88.132 1 1 14163 20200611123243
+173.252.87.3 0 1 68766 
+51.91.218.49 1 29 14437980 20200627221429
+35.193.194.224 2 2 28326 20200609071927
+173.252.95.24 0 1 68766 
+69.171.251.25 0 11 185262 
+172.58.206.245 1 1 8331 20200629093511
+69.50.241.108 1 1 14163 20200620222633
+34.72.227.196 2 2 28326 20200602190114
+157.47.135.21 1 14 445069 20200628125459
+72.79.58.112 3 3 36657 20200614043418
+49.32.31.237 1 1 12535 20200620122309
+69.171.251.1 0 2 7138062 
+173.252.127.19 0 1 2594 
+69.171.251.9 0 12 276188 
+69.171.251.8 0 1 7135468 
+80.82.68.18 1 1 73209 20200624114023
+50.116.17.235 3 3 0 20200626115953
+69.171.251.2 0 10 62058 
+69.171.251.3 0 1 7135468 
+192.71.44.44 2 2 28326 20200621095307
+157.37.56.97 1 12 443119 20200627114208
+69.171.251.15 0 10 165617 
+173.252.95.14 0 1 68766 
+54.225.36.177 2 2 146418 20200630173235
+66.220.149.23 0 1 4599 
+173.252.127.7 0 1 15217 
+95.217.201.38 1 1 14163 20200609092456
+86.135.191.89 1 1 73209 20200603174021
+159.69.178.29 1 1 14163 20200610084034
+173.252.87.25 0 1 68766 
+66.220.149.10 0 1 1285 
+49.32.26.64 1 1 12534 20200624032142
+34.203.163.15 3 3 42489 20200628045951
+185.243.217.28 1 1 14163 20200627165528
+104.200.17.248 0 27 431084 
+69.171.251.26 0 1 3923 
+3.134.106.15 1 1 73209 20200611010220
+80.240.31.63 1 1 14163 20200613172800
+173.252.127.3 0 6 42926 
+69.171.251.22 0 1 147131 
+69.171.251.32 0 1 14192 
+69.171.251.21 0 3 16648 
+69.171.251.28 0 4 76996 
+69.165.11.160 1 1 73209 20200609105037
+69.171.251.31 0 1 5001 
+66.220.149.119 1 8 60325 20200602193536
+157.37.114.79 0 2 1950 
+62.210.82.198 1 1 14163 20200607032554
+185.255.135.44 1 1 14163 20200626140936
+66.220.149.9 0 2 853 
+66.220.149.25 0 1 28311 
+192.71.30.89 1 1 14163 20200614110334
+173.252.127.24 0 1 28311 
+148.72.158.226 2 2 146418 20200623234753
+85.10.204.252 1 1 73209 20200602012412
+78.46.198.8 1 1 14163 20200606111019
+173.252.95.120 0 1 68766 
+69.171.251.13 0 3 75933 
+54.84.54.67 1 1 14163 20200620170121
+192.71.23.211 1 1 14163 20200628101537
+173.252.127.25 0 2 70051 
+54.203.4.162 1 1 14163 20200619112119
+157.47.154.178 1 1 1311 20200629081424
+136.244.87.45 1 1 14163 20200621145043
+173.252.127.32 0 5 156516 
+64.225.8.230 1 1 73209 20200601081545
+69.171.251.4 0 1 4399 
+69.171.251.30 1 7 147760 20200616155902
+157.47.153.251 1 25 7578138 20200630103728
+69.171.251.20 0 1 1780 
+198.12.112.129 1 1 14163 20200604125636
+96.70.163.197 1 31 7638031 20200617080952
+157.37.88.129 1 5 348240 20200626070421
+198.58.118.220 0 27 431084 
+69.171.251.6 0 1 4599 
+18.144.1.73 1 1 14163 20200619125251
+66.220.149.12 0 4 157504 
+69.165.11.141 1 1 73209 20200608065615
+157.47.139.36 1 28 368524 20200630115112
+54.153.47.22 1 1 14163 20200605112211
+18.144.90.216 1 1 14163 20200626133816
+157.37.66.155 1 10 405759 20200627091714
+66.220.149.18 0 2 70767 
+54.162.49.128 1 1 73209 20200602122222
+157.37.235.32 3 22 210356 20200623210906
+157.37.227.62 3 23 212794 20200618004314
+69.171.251.119 0 1 2594 
+24.154.57.70 1 26 297692 20200630092737
+188.43.68.198 1 14 445069 20200630093424
+135.181.31.42 1 1 14163 20200622225058
+188.166.60.95 1 1 14163 20200605014840
+66.220.149.32 0 2 2690 
+69.171.251.27 0 7 66089 
+66.220.149.26 0 5 89124 
+69.171.251.118 0 6 57273 
+73.233.171.122 2 72 21946732 20200630140838
+51.105.54.212 1 1 14163 20200626155138
+69.171.251.10 0 1 328 
+106.67.98.86 3 42 21248658 20200609095709
+54.69.60.234 1 1 14163 20200625140845
+91.121.91.12 0 1 68766 
+51.15.231.17 1 1 14163 20200602003915
+45.33.19.179 1 28 445247 20200626115958
+72.13.62.25 3 3 36657 20200606043402
+173.252.127.21 0 5 102544 
+69.171.251.23 0 1 4399 
+49.32.14.153 2 30 7461335 20200619070449
+173.252.95.8 0 1 68766 
+173.252.127.6 0 1 7135468 
+173.252.95.9 0 1 68766 
+157.37.10.215 0 9 96829 
+173.252.127.2 0 4 30340 
+69.171.251.7 1 9 6885598 20200620134845
+66.220.149.113 0 2 6750743 
+69.171.251.116 1 6 146804 20200614155327
+94.21.145.83 1 1 14163 20200602150006
+157.47.145.229 1 1 1311 20200628213116
+185.100.86.128 1 29 7580715 20200612225707
+173.252.127.8 0 2 2444 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20200601 7 7 211401 4
+20200602 23 123 43933963 11
+20200603 12 12 119182 3
+20200604 3 4 170301 3
+20200605 3 3 42489 3
+20200606 8 8 96285 5
+20200607 2 2 28326 2
+20200608 2 2 87372 2
+20200609 9 74 56920864 7
+20200610 1 1 14163 1
+20200611 7 57 15196721 4
+20200612 7 34 14919253 6
+20200613 7 62 15005930 3
+20200614 6 41 28670422 4
+20200615 1 1 14163 1
+20200616 5 94 43470529 3
+20200617 2 30 14846710 2
+20200618 8 28 401701 4
+20200619 5 32 14637663 4
+20200620 4 38 14922670 4
+20200621 2 2 28326 2
+20200622 5 56 42238801 3
+20200623 9 28 472472 6
+20200624 60 212 59219081 6
+20200625 20 156 101535945 5
+20200626 29 196 31610458 10
+20200627 10 62 29892274 6
+20200628 39 107 44711633 9
+20200629 6 14 493442 3
+20200630 81 307 110855367 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 4
+2mn-5mn 4
+30mn-1h 2
+1h+ 1
+0s-30s 117
+30s-2mn 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/ 152 3674940 110 91
+/admin/login_action.php 25 2367 3 1
+/admin/login.php 24 31464 11 9
+/index.php 23 430034 3 8
+/hire.php 18 177334 1 9
+/admin/gnome_profile.php 18 50990 0 2
+/admin/fonts/dashboard.woff 15 91140 0 2
+/admin/ 15 41670 5 1
+/admin/gnome_registration.php 13 43865 0 1
+/admin/index.php 12 28584 0 3
+/admin/user_registration.php 10 26866 0 1
+/admin/add_price.php 9 23307 0 0
+/admin/all_prices.php 7 17183 0 1
+/admin/add_services.php 6 15703 0 0
+/admin/price_assigned.php 6 17309 0 0
+/admin/order.php 6 15286 0 0
+/admin/admin_aproval.php 4 10763 0 2
+/cpanel 4 50137 3 4
+/billing-information.php 3 29349 0 0
+/login_action.php 3 307 0 0
+/hire2.php 3 22435 0 0
+/admin/vendor/font-awesome/fonts/fontawesome-webfont.woff2 2 154324 0 1
+/admin/logout.php 2 126 0 0
+/admin/pending_order.php 1 2546 0 0
+/place_order.php 1 164 0 0
+/process.php 1 35 0 0
+END_SIDER

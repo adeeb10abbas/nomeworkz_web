@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="15px" viewBox="0 0 88 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>star border@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,10.7088277 L11.184418,12.3829753 L10.5762483,8.83707381 L13.1524965,6.32585239 L9.59220899,5.80851233 L8,2.58234453 L6.40779101,5.80851233 L2.84750346,6.32585239 L5.42375173,8.83707381 L4.81558201,12.3829753 L8,10.7088277 Z M8,12 L3.29771798,14.472136 L4.19577393,9.23606798 L0.39154787,5.52786405 L5.64885899,4.76393202 L8,0 L10.351141,4.76393202 L15.6084521,5.52786405 L11.8042261,9.23606798 L12.702282,14.472136 L8,12 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-2.000000, -2.000000)">
+            <g id="star-border" transform="translate(2.000000, 2.000000)">
+                <path d="M12.0382165,13.5581282 L11.2669858,9.06150803 L14.5339716,5.87698395 L10.0191083,5.22093591 L8,1.12977573 L5.98089175,5.22093591 L1.46602844,5.87698395 L4.73301422,9.06150803 L3.96178349,13.5581282 L8,11.4351121 L12.0382165,13.5581282 Z" id="Star/fill" stroke="#FFD30B" fill-rule="nonzero"></path>
+                <path d="M30.0382165,13.5581282 L29.2669858,9.06150803 L32.5339716,5.87698395 L28.0191083,5.22093591 L26,1.12977573 L23.9808917,5.22093591 L19.4660284,5.87698395 L22.7330142,9.06150803 L21.9617835,13.5581282 L26,11.4351121 L30.0382165,13.5581282 Z" id="Star/fill" stroke="#FFD30B" fill-rule="nonzero"></path>
+                <path d="M48.0382165,13.5581282 L47.2669858,9.06150803 L50.5339716,5.87698395 L46.0191083,5.22093591 L44,1.12977573 L41.9808917,5.22093591 L37.4660284,5.87698395 L40.7330142,9.06150803 L39.9617835,13.5581282 L44,11.4351121 L48.0382165,13.5581282 Z" id="Star/fill" stroke="#FFD30B" fill-rule="nonzero"></path>
+                <path d="M66.0382165,13.5581282 L65.2669858,9.06150803 L68.5339716,5.87698395 L64.0191083,5.22093591 L62,1.12977573 L59.9808917,5.22093591 L55.4660284,5.87698395 L58.7330142,9.06150803 L57.9617835,13.5581282 L62,11.4351121 L66.0382165,13.5581282 Z" id="Star/fill" stroke="#FFD30B" fill-rule="nonzero"></path>
+                <g id="icon/star/border" transform="translate(72.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Star/border" fill-rule="nonzero"></g>
+                    <g id="color/yellow" mask="url(#mask-2)" fill="#FFD30B" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

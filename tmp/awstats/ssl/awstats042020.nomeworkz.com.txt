@@ -1,0 +1,545 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202004 will be lost/reset.
+# Last config file used to build this data file was /home/yxsyupt24clh/tmp/awstats/ssl/awstats.nomeworkz.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2696                
+POS_VISITOR 17543               
+POS_DAY 18478               
+POS_DOMAIN 3381                
+POS_LOGIN 3676                
+POS_ROBOT 3831                
+POS_WORMS 4122                
+POS_EMAILSENDER 4253                
+POS_EMAILRECEIVER 4396                
+POS_SESSION 18904               
+POS_SIDER 19051               
+POS_FILETYPES 4531                
+POS_DOWNLOADS 4678                
+POS_OS 4726                
+POS_BROWSER 4852                
+POS_SCREENSIZE 5074                
+POS_UNKNOWNREFERER 5148                
+POS_UNKNOWNREFERERBROWSER 5620                
+POS_ORIGIN 5736                
+POS_SEREFERRALS 5868                
+POS_PAGEREFS 6012                
+POS_SEARCHWORDS 6160                
+POS_KEYWORDS 6312                
+POS_MISC 2360                
+POS_ERRORS 6371                
+POS_CLUSTER 3532                
+POS_SIDER_404 6471                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200501000205 32 6362 20382342405877
+FirstTime 20200401045010
+LastTime 20200430055147
+LastUpdate 20200501052058 32 0 31 0 0
+TotalVisits 25                  
+TotalUnique 22                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 22                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 16212 34 38 119200
+1 0 0 0 22 22 39683
+2 1 1 16173 37 43 170756
+3 0 0 0 22 26 135477
+4 1 1 16173 33 36 50134
+5 2 2 22509 35 45 47453
+6 1 1 16212 43 73 17710
+7 0 0 0 22 27 37808
+8 1 1 16212 36 40 48558
+9 0 0 0 10 13 138410
+10 0 0 0 23 27 86962
+11 0 0 0 10 21 52534
+12 0 0 0 32 36 33962
+13 2 2 32424 18 40 216924
+14 1 1 0 36 39 16212
+15 0 0 0 17 19 32385
+16 1 1 0 12 14 33890
+17 1 1 16212 12 15 38396
+18 1 1 0 12 29 191468
+19 3 4 117324 57 65 649781
+20 1 1 16212 37 83 230554
+21 2 2 16173 53 60 56242
+22 1 1 16173 24 29 45643
+23 5 24 602932 43 48 190480
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 10 10 340888
+de 9 28 334546
+ca 2 3 190613
+cn 2 2 22509
+nl 1 1 16212
+gb 1 1 16173
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Googlebot/ 103 1249411 20200430182728 0
+AhrefsBot/ 50 811586 20200430203245 0
+bot[\s_+:,\.\;\/\\-] 5 407823 20200429032250 0
+bingbot/ 3 32424 20200426022825 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 2 58350 0 0
+php 1 8332 0 0
+js 8 88360 0 0
+html 24 590357 0 0
+png 10 175542 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+linuxandroid 2 2
+linux 21 2
+Unknown 14 14
+win10 4 3
+win7 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+firefox45.0 1 1
+firefox71.0 1 1
+chrome40.0.2214.85 4 4
+chrome79.0.3945.79 2 1
+android 2 2
+mozilla 7 7
+netscape5.0 1 1
+chrome78.0.3904.108 1 1
+Unknown 6 6
+firefox50.0 20 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20200427060527
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200403234825
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20200427002552
+Go-http-client/1.1 20200419230242
+Mozilla/5.0_zgrab/0.x 20200427135210
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go-http-client/1.1 20200419230242
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 24 44
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1 1
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+401 14 179378
+404 712 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 247
+/wp-content/plugins/login-with-ajax/widget/widget.css 1 https://nomeworkz.com/services-we-offer/
+/pay-for-research-papers 1 -
+/events/2020-05-14/ 3 -
+/wp-content/themes/Avada/assets/css/style.min.css 2 https://nomeworkz.com/avada_portfolio/the-notebook/
+/wp-content/plugins/the-events-calendar/common/src/resources/js/tooltip.min.js 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js 2 https://nomeworkz.com/services-we-offer/
+/faq-items/purpose-of-nomeworkz/ 6 -
+/job/test-comp-fl-usa-58-test-assignment-request-job-1/ 4 -
+/events/2020-12-06/ 5 -
+/wp-content/plugins/gravityforms/js/gravityforms.min.js 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/events/2020-07-05/ 1 -
+/the-events-calendar/ 1 -
+/events/2020-06-13/ 4 -
+/wp-content/plugins/ultimate-member/assets/css/um-tipsy.css 1 https://nomeworkz.com/services-we-offer/
+/wp-content/plugins/cred-frontend-editor/vendor/toolset/toolset-common/res/lib/select2/select2.css 1 https://nomeworkz.com/services-we-offer/
+/new1/license.txt 1 -
+/wp-content/plugins/auto-terms-of-service-and-privacy-policy/css/wpautoterms.css 2 https://nomeworkz.com/avada_portfolio/the-notebook/
+/events/2020-08-18/ 3 -
+/events/feed/ 1 -
+/1/license.txt 1 -
+/listings-stats-dashboard/ 8 -
+/do-my-homework 1 -
+/sitemap-pt-nav_menu_item-2019-12.xml 1 -
+/wp-content/uploads/fusion-styles/35b30dd31056b3f0dab5ef993cf3d951.min.css 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/events/category/event/2019-07-14/ 1 -
+/college-papers-for-sale 1 -
+/events/2020-07-11/ 5 -
+/events/2020-05-06/ 5 -
+/events/2020-09-30/ 5 -
+/events/2020-12-08/ 6 -
+/lates-news/ 1 -
+/events/2020-05-26/ 3 -
+/assignment-dashboard/ 7 -
+/events/2020-09-10/ 4 -
+/events/2020-08-24/ 3 -
+/case-study-writing-service.html 2 -
+/sitemap-pt-um_form-2019-11.xml 1 -
+/lab-report-writing-service 1 -
+/avada_portfolio/flat-picture-frames/ 3 -
+/sitemap-pt-resume-2019-12.xml 1 -
+/wp-config.php 1 -
+/www/license.txt 1 -
+/case-study-writing-service 1 -
+/sitemap-pt-jmfe_custom_fields-2019-12.xml 2 -
+/events/category/event/2019-07-06/ 2 -
+/events/2019-12-01/ 3 -
+/assignments/ 1 -
+/essay-editing-service 1 -
+/events/2020-07-17/ 2 -
+/events/2020-08-05/ 3 -
+/coursework-writing.html 1 -
+/college-application-essay-writing.html 3 -
+/index.php 1 -
+/private-messages/ 1 -
+/wp-content/plugins/wp-job-manager/assets/css/job-listings.css 1 https://nomeworkz.com/services-we-offer/
+/events/2021-01-13/ 4 -
+/events/2019-11-30/ 1 -
+/events/2020-08-11/ 4 -
+/wp-content/plugins/revslider/public/assets/js/rs6.min.js 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/events/2020-08-31/ 3 -
+/events/2020-12-21/ 3 -
+/events/2020-05-15/ 7 -
+/wp-includes/css/dashicons.min.css 1 https://nomeworkz.com/services-we-offer/
+/site/license.txt 1 -
+/sitemap-pt-um_tab-2019-12.xml 1 -
+/events/2020-09-13/ 2 -
+/wp-content/uploads/fusion-scripts/00e39099ca25f82e03b0311ad99a6efe.min.js 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/events/2020-08-21/ 3 -
+/events/2020-06-09/ 1 -
+/terms.html 3 -
+/events/2020-08-01/ 6 -
+/powerpoint-presentations-writing-service 1 -
+/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/term-papers-writing-services.html 2 -
+/events/2021-01-03/ 3 -
+/about-us/ 1 -
+/sitemap-pt-fusion_element-2019-12.xml 2 -
+/capstone-project-writing-service 1 -
+/avada_portfolio/sports-science/ 4 -
+/events/2020-12-11/ 6 -
+/events/2020-05-31/ 4 -
+/events/2020-08-15/ 3 -
+/wp-config.php.save 1 -
+/research-proposal-writing-service 1 -
+/events/2020-06-12/ 6 -
+/events/category/event/2019-07-10/ 2 -
+/wp-includes/js/mediaelement/wp-mediaelement.min.css 1 https://nomeworkz.com/services-we-offer/
+/wp-includes/js/jquery/jquery-migrate.min.js 1 https://nomeworkz.com/services-we-offer/
+/sitemap-pt-page-2019-11.xml 1 -
+/wp-config.php.bak 1 -
+/university-news/how-do-you-best-prepare-for-university/2016/03/15/ 4 -
+/wp-content/plugins/toolset-maps/resources/css/toolset_maps_fixes.css 1 https://nomeworkz.com/services-we-offer/
+/events/2019-07-15/ 7 -
+/privacy-policy/ 4 -
+/events/2020-08-28/ 4 -
+/events/2020-05-17/ 6 -
+/wp-config.php.orig 1 -
+/wp-content/plugins/wp-job-manager-reviews/assets/css/wp-job-manager-reviews.css 2 https://nomeworkz.com/avada_portfolio/the-notebook/
+/wp-admin/ 6 -
+/do-my-assignment 1 -
+/events/2020-05-16/ 5 -
+/wp-content/plugins/coming-soon/themes/default/style.css 3 https://nomeworkz.com/site-news/new-website-is-now-connected-to-twitter/2019/12/12/
+/comments/feed/ 2 -
+/tr_id_827340874076871_ev_PageView_noscript_1.gif 1 -
+/buy-an-essay-online 1 -
+/events/2021-01-10/ 4 -
+/home/ 1 -
+/events/2020-09-02/ 3 -
+/events/2020-12-04/ 3 -
+/avada_portfolio/biology/ 4 -
+/business-plan-writing-service 1 -
+/temp/ 1 -
+/post-a-job/ 1 -
+/wp-content/plugins/front-end-pm/assets/css/common-style.css 1 https://nomeworkz.com/services-we-offer/
+/portfolio_category/branding/ 3 -
+/jobs/ 1 -
+/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/dissertation-editing 1 -
+/index.html 2 -
+/wp-json/rankmath/v1/ 3 -
+/wp/license.txt 1 -
+/events/2020-12-16/ 3 -
+/wp-config.php~ 1 -
+/events/2020-05-18/ 3 -
+/pay-for-essays 1 -
+/events/2020-06-23/ 2 -
+/events/2021-01-09/ 3 -
+/contact-us/ 1 -
+/about-us-2/ 1 -
+/wp-content/plugins/wp-job-manager-resumes/assets/css/frontend.css 2 https://nomeworkz.com/avada_portfolio/the-notebook/
+/math-problems-writing-service 1 -
+/faq-items/how-is-a-gnome-writer-assigned-to-my-order-assignment/ 7 -
+/dashboard 1 -
+/resume/richard-aispn8ka-web-developer-fl-usa/ 13 -
+/un/get_last_order 32 https://nomeworkz.com/speech-writing-service.html
+/events/2020-08-20/ 3 -
+/site-news/news-blog-auto-test-2-facebook/2019/11/20 1 -
+/faq-items/ 2 -
+/login/ 1 -
+/robots.txt 79 -
+/events/2020-10-25/ 7 -
+/book-movie-review-writing 1 -
+/nome-news/former-student-discusses-success-in-the-fashion-industry/2016/03/15/ 5 -
+/events/2020-08-22/ 2 -
+/events/2020-12-10/ 3 -
+/events/2020-06-05/ 4 -
+/candidate-dashboard/ 6 -
+/wp-content/plugins/coming-soon/themes/default/bootstrap/js/bootstrap.min.js 3 https://nomeworkz.com/site-news/new-website-is-now-connected-to-twitter/2019/12/12/
+/events/2020-11-15/ 4 -
+/wp-config.php.old 1 -
+/wp-content/plugins/wp-job-manager-apply-with-facebook/assets/css/frontend.css 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/wp-content/plugins/wp-job-manager-reviews/assets/js/wp-job-manager-reviews.js 1 https://nomeworkz.com/services-we-offer/
+/job-dashboard/ 1 -
+/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css 1 https://nomeworkz.com/services-we-offer/
+/events/category/event/2019-07-03/ 1 -
+/sitemap-pt-page-2019-12.xml 1 -
+/events/2020-05-12/ 3 -
+/events/2020-09-06/ 2 -
+/events/2020-10-11/ 3 -
+/sitemap-pt-site-review-2019-11.xml 1 -
+/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css 1 https://nomeworkz.com/services-we-offer/
+/wp-content/plugins/um-terms-conditions/assets/js/um-terms-conditions-public.min.js 1 https://nomeworkz.com/services-we-offer/
+/annotated-bibliography-writing-service 1 -
+/events/2020-08-19/ 3 -
+/events/2020-12-09/ 3 -
+/wp-content/plugins/gravityforms/js/jquery.textareaCounter.plugin.min.js 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/sitemap-pt-site-review-2019-12.xml 2 -
+/wp-content/plugins/gravityforms/css/readyclass.min.css 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/events/2020-07-20/ 4 -
+/resume/yesy/ 4 -
+/1029-2/ 1 -
+/events/2020-07-02/ 3 -
+/events/category/event/2019-07-23/ 1 -
+/dashboard-gnome.html 2 -
+/events/2020-08-13/ 3 -
+/wp-content/plugins/site-reviews/assets/styles/site-reviews.css 1 https://nomeworkz.com/services-we-offer/
+/events/2020-06-17/ 4 -
+/job/test-title/ 4 -
+/wp-content/plugins/login-with-ajax/widget/login-with-ajax.js 1 https://nomeworkz.com/services-we-offer/
+/events/2020-11-07/ 5 -
+/www.nomeworkz.com 1 -
+/correct-my-essay 1 -
+/.wp-config.php.swp 1 -
+/.well-known/assetlinks.json 4 -
+/events/2020-04-26/ 3 -
+/wp-admin/admin-ajax.php 1 -
+/wp-includes/js/jquery/jquery.js 5 https://nomeworkz.com/avada_portfolio/the-notebook/
+/sitemap-pt-avada_faq-2019-12.xml 1 -
+/events/2020-10-18/ 2 -
+/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js 3 https://nomeworkz.com/avada_portfolio/the-notebook/
+/pay-for-essays.com 1 -
+/wp-content/plugins/gravityforms/js/jquery.json.min.js 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/design/live-the-design-process/2016/01/27/ 3 -
+/events/2020-06-24/ 3 -
+/wp-content/plugins/the-events-calendar/common/src/resources/js/tribe-common.min.js 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/events/2020-05-13/ 4 -
+/avada_portfolio/graphic-design/ 3 -
+/research-paper-editing-service 1 -
+/wp-json/trx_addons/v2/get/sc_layout 3 -
+/events/2020-11-24/ 5 -
+/events/2020-11-04/ 4 -
+/events/2021-01-15/ 2 -
+/reviews/ 1 -
+/lets-talk/ 4 -
+/avada_portfolio/music/ 4 -
+/events/2020-06-08/ 2 -
+/events/2020-10-08/ 2 -
+/event/business-seminar/ 1 -
+/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/events/2020-10-26/ 3 -
+/events/2021-01-01/ 2 -
+/events/category/event/2019-07-21/ 1 -
+/events/2020-08-03/ 3 -
+/events/2020-10-27/ 3 -
+/wp-content/plugins/gravityforms/css/formsmain.min.css 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/wp-content/plugins/gravityforms/css/browsers.min.css 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/events/2021-01-21/ 3 -
+/uncategorized/news-post-1/2019/11/08/ 1 -
+/courses/ 1 -
+/speech-writing-service 1 -
+/events/2020-05-22/ 6 -
+/events/2021-01-06/ 4 -
+/events/2020-08-09/ 7 -
+/feed/ 1 -
+/submit-resume/ 7 -
+/events/2020-10-01/ 6 -
+/events/2020-04-11/ 5 -
+/privacy.html 2 -
+/wp-content/plugins/gravityforms/css/formreset.min.css 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/events/2021-01-26/ 4 -
+/events/month/ 1 -
+/events/2020-12-22/ 5 -
+/events/2020-09-24/ 1 -
+/wp-content/plugins/coming-soon/themes/default/bootstrap/css/bootstrap.min.css 4 https://nomeworkz.com/site-news/new-website-is-now-connected-to-twitter/2019/12/12/
+/wp-includes/js/wp-embed.min.js 1 https://nomeworkz.com/avada_portfolio/the-notebook/
+/events/2020-07-03/ 3 -
+/old/license.txt 1 -
+/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js 1 https://nomeworkz.com/services-we-offer/
+/faq-items/is-my-personal-information-safe-with-you/ 5 -
+/events/2020-08-12/ 2 -
+/research-papers-writing-services.html 2 -
+/events/2020-08-30/ 3 -
+/wp-includes/js/wp-emoji-release.min.js 2 https://nomeworkz.com/avada_portfolio/the-notebook/
+/scholarship-essay-writing-service.html 2 -
+/events/list/ 1 -
+/sitemap.xml 1 -
+/events/2021-01-28/ 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 22
+138.246.253.15 3 3 0 20200422212216
+137.226.113.26 2 2 32424 20200427060527
+54.189.74.227 1 1 16212 20200414080717
+134.122.57.74 1 1 16173 20200402025055
+34.211.253.250 1 1 16212 20200419230242
+159.203.173.169 1 1 105674 20200403231025
+137.226.113.34 1 20 269698 20200423230656
+142.93.191.142 1 1 105674 20200403234825
+54.184.241.188 1 1 16173 20200404194307
+95.211.95.244 1 1 16212 20200413190551
+34.223.50.82 1 1 16173 20200406222027
+138.197.66.66 1 1 105674 20200403233854
+138.246.253.5 1 1 0 20200405163925
+137.226.113.28 1 1 16212 20200427002552
+67.21.36.3 1 1 16212 20200427135210
+34.217.127.82 1 1 16173 20200412212923
+137.226.113.27 1 1 16212 20200419173820
+54.187.221.158 1 1 16212 20200416133558
+114.119.166.85 1 1 8332 20200430055147
+51.15.192.148 1 1 16173 20200401045010
+142.93.47.173 1 2 84939 20200404192238
+114.119.167.3 1 1 14177 20200428051347
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20200401 1 1 16173 1
+20200402 1 1 16173 1
+20200403 3 3 317022 3
+20200404 2 3 101112 2
+20200405 2 2 0 2
+20200406 1 1 16173 1
+20200412 1 1 16173 1
+20200413 1 1 16212 1
+20200414 1 1 16212 1
+20200416 1 1 16212 1
+20200417 1 1 0 1
+20200419 2 2 32424 2
+20200420 1 1 16212 1
+20200422 1 1 0 1
+20200423 1 20 269698 1
+20200427 3 3 48636 3
+20200428 1 1 14177 1
+20200430 1 1 8332 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 25
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 24 590357 24 24
+/hire.php 1 8332 1 1
+END_SIDER

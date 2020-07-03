@@ -1,0 +1,454 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /home/yxsyupt24clh/tmp/awstats/awstats.nomeworkz.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2698                
+POS_VISITOR 9490                
+POS_DAY 10971               
+POS_DOMAIN 3379                
+POS_LOGIN 3716                
+POS_ROBOT 3871                
+POS_WORMS 4194                
+POS_EMAILSENDER 4325                
+POS_EMAILRECEIVER 4468                
+POS_SESSION 11111               
+POS_SIDER 11311               
+POS_FILETYPES 4603                
+POS_DOWNLOADS 4876                
+POS_OS 4964                
+POS_BROWSER 5140                
+POS_SCREENSIZE 5581                
+POS_UNKNOWNREFERER 5655                
+POS_UNKNOWNREFERERBROWSER 5966                
+POS_ORIGIN 6150                
+POS_SEREFERRALS 6287                
+POS_PAGEREFS 6450                
+POS_SEARCHWORDS 6598                
+POS_KEYWORDS 6750                
+POS_MISC 2361                
+POS_ERRORS 6809                
+POS_CLUSTER 3572                
+POS_SIDER_404 6932                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200703042312 891 216531 12246162776165
+FirstTime 20200701034338
+LastTime 20200703042255
+LastUpdate 20200703052020 891 0 891 0 0
+TotalVisits 42                  
+TotalUnique 31                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 36                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 12 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 3 3 160581
+1 3 30 14744509 2 3 0
+2 3 91 16453173 4 29 182985
+3 4 97 58447305 7 8 5234
+4 1 1 14163 29 29 0
+5 1 1 73209 9 9 0
+6 10 63 15496405 5 10 25296
+7 8 49 72357412 8 10 5029
+8 61 147 136151126 56 62 202636
+9 42 63 776386 9 15 29265
+10 0 2 70767 2 2 0
+11 5 62 43450903 5 7 0
+12 18 62 15245787 4 4 5222
+13 21 68 14869575 5 9 7691
+14 11 38 971193 5 6 18927
+15 0 0 0 0 1 0
+16 0 0 0 0 0 0
+17 1 1 73209 1 2 14163
+18 13 17 427291 13 14 0
+19 20 29 290448 28 29 28326
+20 3 73 29663652 4 5 2668
+21 0 0 0 0 0 0
+22 2 31 14775905 2 2 0
+23 1 1 14163 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 147 447 112538728
+in 71 291 66236206
+ru 3 30 7668087
+ca 3 154 38569252
+gr 1 1 14163
+nz 1 1 14163
+fr 1 1 14163
+no 1 1 14163
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Googlebot/ 22 211311 20200701192633 0
+AhrefsBot/ 3 42489 20200702192045 0
+bot[\s_+:,\.\;\/\\-] 2 146418 20200703001431 0
+YandexBot/ 1 14163 20200701175638 0
+bingbot/ 1 14163 20200701095120 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+Unknown 2 25067 0 0
+woff2 1 77162 0 0
+mp4 1 188117950 0 0
+svg 54 146015 0 0
+html 52 873768 0 0
+css 92 1403075 0 0
+woff 6 36456 0 0
+png 267 3810318 0 0
+php 167 642480 0 0
+jpg 37 5464826 0 0
+js 247 3065404 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/files/feature-video.mp4 1 35 209524354
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+linuxandroid 153 30
+Unknown 5 5
+ios_iphone 117 9
+linux 194 10
+win10 429 159
+macosx 38 11
+win7 24 3
+winlong 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 20
+mozilla 1 1
+chrome71.0.3563.0 30 2
+msie9.0 8 0
+safari 77 3
+firefox15.0 1 1
+msie7.0 1 1
+chrome83.0.4103.116 506 137
+chrome83.0.4103.101 34 1
+netscape5.0 1 1
+chrome83.0.4103.61 1 1
+firefox77.0 30 1
+chrome73.0.3683.90 1 1
+firefox57.0 1 1
+safari13.1.1 40 6
+chrome60.0.3112.113 45 32
+chrome81.0.4044.129 14 1
+chrome83.0.4103.106 165 33
+chrome74.0.3729.169 1 1
+chrome83.0.4103.97 1 1
+Unknown 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+python-requests/2.24.0 20200702062847
+Mozilla/5.0_zgrab/0.x 20200702123239
+WhatsApp/2.20.193.9_A 20200703024557
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200702091031
+User-Agent\ 20200702132848
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+User-Agent\ 20200702132848
+WhatsApp/2.20.193.9_A 20200703024557
+python-requests/2.24.0 20200702062847
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 81 105
+From1 0 0
+From2 4 4
+From3 0 0
+From4 143 852
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 36 53541
+301 7 1645
+404 167 0
+206 2 188465
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 92
+/dev/ 1 -
+/2018/ 1 -
+/index.html 8 http://nomeworkz.com/
+/speech-writing-service.html 1 -
+/dashboard-gnome.html 1 -
+/img/icon-sprite.png 1 http://nomeworkz.com/
+/blog/ 2 -
+/do-my-assignment.html 1 -
+/write-my-dissertation.html 1 -
+/capstone-project-writing-service.html 1 -
+/scholarship-essay-writing-service.html 1 -
+/wordpress/ 2 -
+/math-problems-writing-service.html 1 -
+/pay-for-research-papers.html 1 -
+/sites/.env 1 -
+/api/.env 1 -
+/term-papers-writing-services.html 1 -
+/web/ 2 -
+/new/ 2 -
+/laravel/.env 1 -
+/admin/.env 1 -
+/account-orders.html 1 -
+/tje744ve2 1 -
+/home/ 2 -
+/news/ 1 -
+/wp/ 2 -
+/correct-my-essay.html 1 -
+/thesis-writing-help.html 1 -
+/old-wp/ 1 -
+/v2/ 1 -
+/v1/ 1 -
+/shop/.env 1 -
+/demo/ 1 -
+/manifest.js 1 -
+/tmp/ 1 -
+/annotated-bibliography-writing-service.html 1 -
+/vendor/.env 1 -
+/terms.html 1 -
+/write-my-essay.html 1 -
+/dissertation-editing.html 1 -
+/cms/ 2 -
+/img/star-full_2x.png 1 http://nomeworkz.com/
+/privacy.html 1 -
+/blog/.env 1 -
+/admin/delete.php=id=5 2 http://nomeworkz.com/admin/add_services.php
+/business-plan-writing-service.html 1 -
+/college-application-essay-writing.html 2 -
+/un/get_last_order 38 http://nomeworkz.com/
+/new-site/ 1 -
+/temp/ 1 -
+/install/ 1 -
+/2019/ 1 -
+/old/ 1 -
+/coursework-writing.html 1 -
+/robots.txt 12 -
+/img/ask_span.png 1 http://nomeworkz.com/
+/bak/ 1 -
+/test/ 1 -
+/research-proposal-writing-service.html 1 -
+/case-study-writing-service.html 1 -
+/refresh-csrf-token 8 http://nomeworkz.com/
+/wp-login.php 3 -
+/research-paper-editing-service.html 1 -
+/bk/ 1 -
+/lab-report-writing-service.html 1 -
+/essay-writing-help-online.html 2 -
+/site/ 2 -
+/old-site/ 1 -
+/public/.env 1 -
+/.env 1 -
+/2020/ 1 -
+/img/star-empty_2x.png 1 http://nomeworkz.com/
+/img/line_hove.png 1 http://nomeworkz.com/
+/hire-writer.html 1 -
+/research-papers-writing-services.html 1 -
+/dissertation-writing-services.html 1 -
+/test/.env 1 -
+/backup/ 1 -
+/pay-for-essays.html 1 -
+/main/ 1 -
+/wp2/ 1 -
+/privacy 1 -
+/buy-an-essay-online.html 1 -
+/powerpoint-presentations-writing-service.html 1 -
+/do-my-homework.html 1 -
+/system/.env 1 -
+/essay-editing-service.html 1 -
+/img/input-select-triangle.png 1 http://nomeworkz.com/
+/2.0 1 -
+/book-movie-review-writing.html 1 -
+/college-papers-for-sale.html 1 -
+/wp1/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 36
+157.47.146.74 64 172 56968100 20200703024557
+157.47.202.91 22 39 7791479 20200701093403
+49.32.49.8 21 37 505203 20200701091755
+49.32.62.170 20 54 7481898 20200702135013
+112.196.143.247 14 68 8207165 20200703024542
+98.115.38.155 14 115 16363905 20200702203854
+54.212.119.43 11 15 384139 20200702192340
+49.32.39.63 9 63 8346774 20200702063221
+34.220.8.102 9 12 119353 20200702192441
+52.37.220.111 9 14 165248 20200702192653
+108.36.92.61 6 40 29085038 20200702074931
+103.94.87.148 5 47 34192720 20200702083933
+54.184.41.138 3 4 34836 20200702184343
+185.220.101.156 2 30 7594878 20200702012725
+35.225.251.192 2 2 28326 20200703042255 20200703042255 /
+174.127.135.130 2 2 87372 20200702184042
+83.143.86.62 1 1 14163 20200702123239
+54.200.16.34 1 1 14163 20200701230107
+49.32.61.64 1 1 12534 20200702084551
+91.185.71.25 1 1 73209 20200701053247
+47.9.18.220 1 86 9280571 20200703024802
+159.203.89.161 1 1 73209 20200702091031
+157.47.210.236 1 14 445062 20200701132039
+209.141.120.132 1 14 445069 20200701034352
+62.210.111.97 1 1 14163 20200702014926
+207.46.13.197 0 1 563 
+207.46.13.198 0 2 15179 
+157.55.39.92 0 1 602 
+45.71.17.141 1 1 14163 20200702132848
+47.8.239.63 1 39 14621927 20200703030819
+40.77.167.148 0 2 70767 
+117.198.175.191 1 30 7489912 20200702111237
+80.240.20.214 1 1 14163 20200702062847
+157.55.39.53 0 2 1249 
+157.47.144.159 1 14 445069 20200701034338
+47.247.73.255 1 34 14666754 20200703030756
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20200701 71 212 33035156 10
+20200702 151 553 327306922 26
+20200703 6 161 74024503 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+2mn-5mn 2
+0s-30s 28
+5mn-15mn 4
+15mn-30mn 1
+30s-2mn 2
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 34
+/ 48 857170 30 22
+/admin/login.php 23 29733 7 7
+/admin/index.php 20 47913 0 2
+/index.php 19 269447 0 3
+/admin/add_services.php 15 39052 0 1
+/admin/login_action.php 13 1072 1 0
+/admin/password.php 11 14834 0 0
+/admin/user_registration.php 9 24495 0 0
+/hire.php 8 67319 1 0
+/admin/gnome_registration.php 6 17714 0 0
+/admin/fonts/dashboard.woff 6 36456 0 1
+/admin/gnome_profile.php 6 15500 0 1
+/login_action.php 5 516 0 0
+/admin/order.php 4 9884 0 1
+/billing-information.php 4 39148 1 1
+/admin/logout.php 3 189 0 0
+/admin/ 2 4764 0 0
+/admin/price_assigned.php 2 5642 0 0
+/cpanel 2 25067 2 1
+/hire2.php 2 14781 0 0
+/admin/admin_aproval.php 2 5130 0 0
+/admin/pending_order.php 2 5123 0 0
+/dashboard.html 2 11834 0 1
+/admin/add_price.php 2 5171 0 0
+/logout.php 2 124 0 0
+/process.php 1 35 0 0
+/place_order.php 1 164 0 0
+/account-orders.php 1 6186 0 0
+/decline.php 1 6154 0 0
+/approval.php 1 6173 0 0
+/admin/update.php 1 21 0 0
+/admin/all_prices.php 2 4788 0 0
+/complete_order.php 1 6172 0 0
+/admin/vendor/font-awesome/fonts/fontawesome-webfont.woff2 1 77162 0 0
+END_SIDER

@@ -1,0 +1,1 @@
+[21-Mar-2020 18:38:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cn96pr509li7/public_html/nomeworkz/admin/dbconfig/connect.php on line 7

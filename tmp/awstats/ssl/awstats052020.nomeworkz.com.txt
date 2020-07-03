@@ -1,0 +1,844 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202005 will be lost/reset.
+# Last config file used to build this data file was /home/yxsyupt24clh/tmp/awstats/ssl/awstats.nomeworkz.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2680                
+POS_VISITOR 26438               
+POS_DAY 27886               
+POS_DOMAIN 3397                
+POS_LOGIN 3708                
+POS_ROBOT 3863                
+POS_WORMS 4198                
+POS_EMAILSENDER 4329                
+POS_EMAILRECEIVER 4472                
+POS_SESSION 28415               
+POS_SIDER 28582               
+POS_FILETYPES 4607                
+POS_DOWNLOADS 4758                
+POS_OS 4843                
+POS_BROWSER 4997                
+POS_SCREENSIZE 5307                
+POS_UNKNOWNREFERER 5381                
+POS_UNKNOWNREFERERBROWSER 5865                
+POS_ORIGIN 5981                
+POS_SEREFERRALS 6114                
+POS_PAGEREFS 6258                
+POS_SEARCHWORDS 6406                
+POS_KEYWORDS 6558                
+POS_MISC 2344                
+POS_ERRORS 6617                
+POS_CLUSTER 3564                
+POS_SIDER_404 6717                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200601005501 9 1958 19474276935047
+FirstTime 0
+LastTime 20200531232254
+LastUpdate 20200601052114 9 0 8 0 0
+TotalVisits 41                  
+TotalUnique 35                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 35                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 9 363665 144 152 124506
+1 2 2 28326 25 48 201958
+2 0 0 0 17 19 42538
+3 0 0 0 29 43 176653
+4 1 1 73209 15 19 15448
+5 0 0 0 23 30 299035
+6 2 2 28354 16 18 65048
+7 1 1 73209 13 32 202531
+8 0 0 0 18 23 159444
+9 3 3 36658 20 29 226043
+10 3 3 101862 15 20 50906
+11 1 1 73209 14 19 14163
+12 2 2 147072 15 21 79223
+13 7 7 394371 205 320 22494
+14 2 2 28340 14 19 164070
+15 1 28 14584269 15 42 79211
+16 3 3 28326 12 16 79209
+17 6 7 243510 11 18 111255
+18 0 0 0 12 16 79223
+19 1 1 0 18 50 351957
+20 0 0 0 7 8 65034
+21 3 3 101535 14 20 65048
+22 3 22 355052 66 69 14229
+23 10 19 630087 22 53 119676
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 35 71 9100035
+de 10 29 366835
+fr 8 8 290442
+cn 4 5 296725
+ru 1 1 14163
+in 1 1 14177
+eg 1 1 73209
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Googlebot/ 118 1347239 20200531153535 0
+AhrefsBot/ 13 164208 20200521230501 0
+bot[\s_+:,\.\;\/\\-] 10 673371 20200530092523 0
+bingbot/ 3 24165 20200518051542 0
+Googlebot\-Image/ 3 75145 20200519231616 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+html 59 2079070 0 0
+js 26 488435 0 0
+png 26 327575 0 0
+css 4 116706 0 0
+php 1 8332 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/files/feature-video.mp4 0 1 7135468
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+macosx11 2 2
+linuxandroid 2 1
+winvista 2 2
+win7 2 2
+linux 24 5
+Unknown 43 34
+win10 42 14
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+firefox52.9 2 2
+firefox45.0 1 1
+chrome41.0.2225.0 2 2
+android 2 1
+chrome67.0.3396.62 2 2
+firefox50.0 20 1
+mozilla 10 10
+Unknown 17 17
+firefox57.0 4 4
+chrome81.0.4044.138 29 1
+firefox47.0 2 2
+netscape 6 6
+chrome40.0.2214.85 2 2
+chrome79.0.3945.59 8 8
+wap 10 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20200525090856
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200505120257
+Mozilla 20200530133215
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20200525162439
+Wappalyzer 20200511233404
+Go-http-client/1.1 20200531232254
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go-http-client/1.1 20200531232254
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 56 85
+From1 0 0
+From2 0 0
+From3 0 0
+From4 4 32
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 929 0
+401 28 524774
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 516
+/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js 1 https://nomeworkz.com/
+/noto.tar.gz 1 -
+/data.rar 1 -
+/term-papers-writing-services.html 5 -
+/events/category/event/2019-10-22/ 2 -
+/events/category/event/2020-01-26/ 1 -
+/events/2019-07-13/ 1 -
+/wp-ajax-hook.php 1 -
+/wp-content/uploads/2020/03/wp-zip-plugin-2.php 1 -
+/events/category/event/2020-02-21/ 2 -
+/wp-content/plugins/gravityforms/css/formreset.min.css 1 https://nomeworkz.com/avada_portfolio/beyond-labels/
+/wp-content/plugins/cip4-folder-download-widget/cip4-download.php 2 -
+/category/design/ 1 -
+/cache_.php.suspected 1 -
+/.well-known/wp-craft-report-site.php 1 -
+/cgi-bin/test-cgi 3 -
+/wp.rar 1 -
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/dnd-upload-cf7.js 2 -
+/wordpress.rar 1 -
+/avada_portfolio/running-man/ 1 -
+/wp-content/themes/green_farming_new/download.php 2 -
+/index.html 1 -
+/InCreate-FullPackage.gzip 1 -
+/wp-includes/js/wp-embed.min.js 2 https://nomeworkz.com/
+/wp-content/plugins/gravityforms/css/readyclass.min.css 1 https://nomeworkz.com/avada_portfolio/beyond-labels/
+/backup.gzip 1 -
+/wp-simple-plugin.php.suspected 1 -
+/events/category/event/2020-03-29/ 1 -
+/events/category/event/today/ 1 -
+/events/category/event/2020-01-14/ 1 -
+/wp-config.php.swo 1 -
+/wp-includes/js/jquery/jquery-migrate.min.js 1 https://nomeworkz.com/
+/web.zip 1 -
+/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/backup.tar.gz 1 -
+/robots.txt 102 -
+/wp-config.php.save.1 1 -
+/events/category/event/2020-02-19/ 1 -
+/events/category/event/2019-08-10/ 1 -
+/events/category/event/2020-01-17/ 1 -
+/public_html.gzip 1 -
+/category/site-news/ 1 -
+/backup.rar 1 -
+/events/2021-01-26/ 3 -
+/wp-config.xml 1 -
+/wp-config.php.old 1 -
+/wp-craft-report-conf.php.suspected 1 -
+/events/category/event/2019-11-24/ 1 -
+/wp-content/plugins/ebook-downloader/ebook_plugin.php 2 -
+/dump.gz 1 -
+/wp-content/uploads/2020/01/backup-erjm.php.suspected 1 -
+/events/category/event/2020-02-24/ 1 -
+/wp-json/wpshopify/v1/settings 2 -
+/master.zip 1 -
+/page/2/ 1 -
+/mysql/ 1 -
+/public_html.tar.gz 1 -
+/wp-content/s.php.suspected 1 -
+/wp-content/themes/antioch/lib/scripts/download.php 2 -
+/wp-content/themes/felis/download.php 2 -
+/events/category/event/2020-01-16/ 1 -
+/events/category/event/2019-07-24/ 1 -
+/veggiedog.tar.gz 1 -
+/events/category/event/2019-08-24/ 2 -
+/veggiedog.zip 1 -
+/portfolio-items/running-man/ 1 -
+/quick_install_archive.rar 1 -
+/header-cache.php.suspected 1 -
+/wp-content/plugins/wp-job-manager-apply-with-facebook/assets/css/frontend.css 1 https://nomeworkz.com/
+/faq-items/what-is-nomeworkz/ 2 -
+/wp-content/plugins/s3bubble-amazon-s3-html-5-video-with-adverts/assets/plugins/ultimate/content/downloader.php 2 -
+/events/2019-07-12/ 4 -
+/wp-content/themes/lote27/download.php 2 -
+/events/category/event/2019-07-18/ 1 -
+/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/portfolio-items/beyond-labels/ 1 -
+/events/category/event/2019-07-17/ 1 -
+/events/category/event/2020-01-10/ 1 -
+/events/category/event/2019-10-18/ 1 -
+/veggiedog.gz 1 -
+/wp-config.swp 1 -
+/wp-content/themes/authentic/includes/download.php 2 -
+/events/category/event/2020-03-22/ 1 -
+/wp.gzip 1 -
+/wp-json/ 1 -
+/archive.zip 1 -
+/portfolio-items/a-bag-for-life/ 1 -
+/pma/ 1 -
+/events/category/event/2019-12/ 1 -
+/events/category/event/2019-09-28/ 1 -
+/wp-login.php 2 -
+/public_html.zip 1 -
+/events/category/event/2020-01-04/ 1 -
+/category/uncategorized/ 3 -
+/web.gz 1 -
+/wp-content/themes/yakimabait/download.php 2 -
+/installer.rar 1 -
+/dump.tar.gz 1 -
+/cms.tar.gz 1 -
+/wpautoterms/ 1 -
+/wp-config.php.original 1 -
+/avada_portfolio/physics/ 1 -
+/portfolio-items/and-the-ampersand/ 1 -
+/wp-upload-class.php 1 -
+/.well-known.rar 1 -
+/wp-content/themes/SMWF/inc/download.php 2 -
+/events/category/event/2019-08-16/ 1 -
+/events/category/event/2020-03-18/ 1 -
+/job/test-comp-fl-usa-58-test-assignment-request-job-1/ 1 -
+/data.gzip 1 -
+/.well-known.gz 1 -
+/events/category/event/2019-09-06/ 1 -
+/phpmyadmin/ 1 -
+/new_license.php 1 -
+/wp-content/themes/NativeChurch/download/download.php 2 -
+/archive.tar.gz 1 -
+/events/category/event/2019-12-01/ 1 -
+/events/category/event/2020-03-12/ 1 -
+/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js 1 https://nomeworkz.com/avada_portfolio/beyond-labels/
+/new.rar 1 -
+/wp-up.php 1 -
+/new.gzip 1 -
+/noto.gz 1 -
+/wp-json/trx_addons/v2/get/sc_layout 1 -
+/events/category/event/2019-07-19/ 1 -
+/events/category/event/2020-05-29/ 1 -
+/OMC_template.zip 1 -
+/events/category/event/2019-09-07/ 1 -
+/wp-content/plugins/wp-job-manager-reviews/assets/js/wp-job-manager-reviews.js 2 https://nomeworkz.com/
+/wp-content/themes/rowe/download/download.php 2 -
+/wp-config.php.swp 1 -
+/phpformbuilder/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/avada_portfolio/economics/ 1 -
+/master.gzip 1 -
+/wp-content/plugins/gravityforms/css/browsers.min.css 2 https://nomeworkz.com/avada_portfolio/beyond-labels/
+/wp-upload-class.php.suspected 1 -
+/wp-content/plugins/custom-registration-form-builder-with-submission-manager/readme.txt 1 -
+/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css 1 https://nomeworkz.com/
+/phpmyadmin/scripts/setup.php 3 -
+/sql/ 1 -
+/wp-content/uploads/2020/02/wp-hello-plugin.php 1 -
+/wp-includes/js/wp-emoji-release.min.js 2 https://nomeworkz.com/
+/db.rar 1 -
+/lib/downloadlink.php 2 -
+/master.tar.gz 1 -
+/wp-content/uploads/fusion-styles/913d10ad85c2c6aaf10a6cee2194c707.min.css 1 https://nomeworkz.com/
+/college-application-essay-writing.html 2 -
+/.well-known/wp-craft-report.php 1 -
+/wp-content/plugins/gravityforms/js/jquery.json.min.js 1 https://nomeworkz.com/avada_portfolio/beyond-labels/
+/.well-known.tar.gz 1 -
+/old.tar.gz 1 -
+/events/category/event/2019-12-29/ 1 -
+/dnloadcontrol.php 2 -
+/events/category/event/2019-09-27/ 1 -
+/cgi-bin.rar 1 -
+/unzip.php.suspected 1 -
+/data.tar.gz 1 -
+/app.tar.gz 1 -
+/noto.rar 1 -
+/.well-known.gzip 1 -
+/wp-content/plugins/imdb-widget/pic.php 2 -
+/events/category/event/2019-07-28/ 1 -
+/rt18_archive.zip 1 -
+/wp-config.php~ 1 -
+/wp-content/plugins/kiwi-social-share/kiwi-social-share.php 1 -
+/dump.gzip 1 -
+/events/category/event/2020-01-09/ 2 -
+/new.zip 1 -
+/web.config 1 -
+/wp-config.php.1 1 -
+/events/category/event/2019-08-04/ 1 -
+/wp-content/uploads/2020/02/wp-hello-plugin-1.php 1 -
+/wp-config.save 1 -
+/events/category/event/2019-09-08/ 4 -
+/wp-config.orig 1 -
+/wp-content/themes/liberator/inc/php/download.php 2 -
+/wp-content/themes/urbancity/lib/scripts/download.php 4 -
+/master.rar 1 -
+/research-papers-writing-services.html 6 -
+/events/category/event/2019-10-04/ 1 -
+/wp-content/plugins/wp-job-manager-resumes/assets/css/frontend.css 1 https://nomeworkz.com/avada_portfolio/beyond-labels/
+/wp-content/plugins/wp-job-manager-applications/assets/css/frontend.css 1 https://nomeworkz.com/avada_portfolio/beyond-labels/
+/events/category/event/2019-07-07/ 1 -
+/wpautoterms/privacy-policy/ 1 -
+/backup.zip 1 -
+/wp-content/plugins/private-messages//assets/css/select2.min.css 2 https://nomeworkz.com/
+/events/category/event/2020-03-05/ 1 -
+/events/category/event/2020-02-18/ 1 -
+/wp-includes/css/dashicons.min.css 2 https://nomeworkz.com/
+/.well-known/wp-build-report.php.suspected 1 -
+/events/category/event/2019-10-13/ 1 -
+/events/category/event/2020-03-07/ 1 -
+/dump.rar 1 -
+/backups.tar.gz 1 -
+/web.gzip 1 -
+/wp-content/plugins/gracemedia-media-player/templates/files/ajax_controller.php 2 -
+/wp-content/uploads/2020/02/wp-simple-plugin-1.php 1 -
+/wp-content/plugins/contus-video-gallery/hdflvplayer/download.php 2 -
+/wp-config.php 4 -
+/events/category/event/2020-02-03/ 1 -
+/%23wp-config.php%23 1 -
+/events/category/event/2019-09-02/ 1 -
+/events/category/event/2019-07/ 1 -
+/quick_install_archive.zip 1 -
+/contact-us/ 1 -
+/db.gzip 1 -
+/events/category/event/2020-02-06/ 1 -
+/wp-content/cache/log/000000/dbcache.log 1 -
+/cgi-bin.gzip 1 -
+/events/2019-11-29/ 1 -
+/wp-content/themes/cafesalivation/download.php 2 -
+/wp-content/cache/log/000000/minify.log 1 -
+/web.rar 1 -
+/cgi-bin.gz 1 -
+/events/2020-07-08/ 1 -
+/privacy 1 -
+/wp-content/plugins/ajax-store-locator-wordpress_0/sl_file_download.php 2 -
+/wp-content/plugins/wp-job-manager/assets/css/frontend.css 1 https://nomeworkz.com/
+/public_html.gz 1 -
+/wp-content/uploads/fusion-styles/e453609852d08fe338d7f6ea35a23889.min.css 1 https://nomeworkz.com/avada_portfolio/beyond-labels/
+/wp-content/themes/twentyeleven/download.php 6 -
+/wp-content/themes/oxygen-theme/download.php 2 -
+/noticuba.org.zip 1 -
+/backups.zip 1 -
+/public_html.rar 1 -
+/events/category/event/2019-12-13/ 1 -
+/data.gz 1 -
+/jobs/ 1 -
+/wp-content/plugins/history-collection/download.php 2 -
+/.well-known.zip 1 -
+/wp-content/themes/churchope/lib/downloadlink.php 2 -
+/reviews/ 1 -
+/wp-content/themes/epic/includes/download.php 2 -
+/category/uncategorized/feed/ 1 -
+/events/category/event/2019-09-01/ 1 -
+/events/category/event/2019-09-20/ 2 -
+/new.gz 1 -
+/horde/imp/test.php 3 -
+/veggiedog.gzip 1 -
+/events/category/event/2020-01-05/ 1 -
+/tr_id_827340874076871_ev_PageView_noscript_1.gif 1 -
+/wp-content/plugins/advanced-uploader/upload.php 2 -
+/events/category/event/2019-11-25/ 1 -
+/wp-content/plugins/crelly-slider/wordpress/temp/super-socialat/super_socialat.php 1 -
+/wp-content/uploads/2020/01/backup-ekze.php.suspected 1 -
+/faq_category/top-10/ 1 -
+/wp-content/plugins/wp-ecommerce-shop-styling/includes/download.php 2 -
+/events/category/event/2019-10-06/ 1 -
+/noto.gzip 1 -
+/login/ 2 -
+/myadmin/ 1 -
+/backups.rar 1 -
+/wp-admin/wp-upload-class.php 1 -
+/wordpress.zip 1 -
+/wordpress.tar.gz 1 -
+/wp-content/themes/u_parts/force-download.php 2 -
+/events/category/event/2019-08/ 1 -
+/wp-config.php.bak 1 -
+/events/category/event/2019-12-15/ 1 -
+/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js 2 https://nomeworkz.com/
+/portfolio-items/the-notebook/ 1 -
+/noticuba.org.gz 1 -
+/wp-content/plugins/gravityforms/js/gravityforms.min.js 2 https://nomeworkz.com/avada_portfolio/beyond-labels/
+/wp-content/themes/MichaelCanthony/download.php 2 -
+/app.gz 1 -
+/db.tar.gz 1 -
+/wp-content/plugins/the-events-calendar/common/src/resources/js/tooltip.min.js 2 https://nomeworkz.com/
+/wp-admin/admin-post.php 35 -
+/event/student-fund-raiser/ 1 -
+/wp-config.old 1 -
+/wp-content/plugins/thecartpress/modules/Miranda.class.php 2 -
+/author/nwadmin/ 1 -
+/wp-admin/ 6 -
+/events/category/event/2020-02-08/ 1 -
+/events/category/event/list/ 1 -
+/InCreate-FullPackage.tar.gz 1 -
+/OMC_template.rar 1 -
+/wp-build-report.php 1 -
+/wp-content/themes/nishizawa_tmp/force-download.php 2 -
+/events/category/event/2020-02-15/ 2 -
+/recent-work/ 1 -
+/old.gz 1 -
+/wp-content/themes/linenity/functions/download.php 2 -
+/events/category/event/2019-12-05/ 1 -
+/wp-content/plugins/photocart-link/decode.php 2 -
+/events/category/event/2020-02-09/ 2 -
+/wp-config.zip 1 -
+/wp-build-report-conf.php 1 -
+/wp-admin/admin-ajax.php 84 -
+/wp-content/uploads/2020/01/wp-block-plugin.php 1 -
+/wp-content/uploads/2020/01/wp-simple-plugin.php 1 -
+/veggiedog.rar 1 -
+/events/category/event/2019-11-12/ 1 -
+/wp-content/uploads/2020/03/wp-hello-plugin.php.suspected 1 -
+/wp-content/cache/log/000000/pagecache.log 1 -
+/events/category/event/2020-01-15/ 1 -
+/events/category/event/2019-10-31/ 1 -
+/backup.gz 1 -
+/events/category/event/2019-08-19/ 1 -
+/wp-content/plugins/auto-terms-of-service-and-privacy-policy/css/wpautoterms.css 1 https://nomeworkz.com/avada_portfolio/beyond-labels/
+/wp-content/plugins/wp-custom-pages/wp-download.php 2 -
+/wp-content/uploads/2020/03/wp-hello-plugin.php 1 -
+/wp-content/uploads/2020/02/wp-simple-plugin-2.php 1 -
+/_wpeprivate/config.json 1 -
+/case-study-writing-service.html 1 -
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 2 -
+/installer.gz 1 -
+/wp.gz 1 -
+/wp.zip 1 -
+/mission-statement/ 1 -
+/what-is-a-nome/ 2 -
+/events/category/event/2020-03-31/ 1 -
+/wpautoterms/terms-and-conditions/ 1 -
+/portfolio-items/flat-picture-frames/ 1 -
+/wp-config.php.save 1 -
+/InCreate-FullPackage.gz 1 -
+/events/category/event/2019-07-30/ 1 -
+/noticuba.org.tar.gz 1 -
+/events/2019-07-01/ 1 -
+/wp-config.php1 1 -
+/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js 1 https://nomeworkz.com/
+/events/category/event/2019-08-13/ 2 -
+/events/category/event/2019-08-29/ 1 -
+/installer.tar.gz 1 -
+/installer.zip 1 -
+/wp-admin/edit.php 2 -
+/about-us/ 1 -
+/rt18_archive.gz 1 -
+/wp-content/force-download.php 2 -
+/wp-build-report.php.suspected 1 -
+/wp-config.php_bak/wp-config.php-bak 1 -
+/backups.gzip 1 -
+/cms.gzip 1 -
+/wp-config.bak 1 -
+/wp-content/uploads/fusion-scripts/00e39099ca25f82e03b0311ad99a6efe.min.js 3 https://nomeworkz.com/
+/backups.gz 1 -
+/wp-config.inc 1 -
+/events/category/event/2020-01-23/ 1 -
+/events/category/event/2019-08-21/ 2 -
+/old.zip 1 -
+/events/category/event/2020-01-19/ 1 -
+/download_file.php 2 -
+/cms.rar 1 -
+/events/category/event/2019-08-22/ 2 -
+/app.zip 1 -
+/events/category/event/2019-11-02/ 1 -
+/web-design-articles/ 2 -
+/InCreate-FullPackage.zip 1 -
+/events/category/event/2019-08-28/ 1 -
+/OMC_template.gzip 1 -
+/wp-content/themes/trinity/lib/scripts/download.php 2 -
+/.wp-config.php.swp 1 -
+/cgi-bin.tar.gz 1 -
+/quick_install_archive.gz 1 -
+/wp-content/uploads/wp-config-backup.txt 1 -
+/assets/jquery-file-upload/server/php/index.php 1 -
+/data.zip 1 -
+/wp-content/uploads/2018/09/wp-pr.php.suspected 1 -
+/wp-content/themes/kap/download.php 4 -
+/new.tar.gz 1 -
+/events/2020-11-15/ 2 -
+/wp-content/plugins/simple-file-list/js/ee-head.js 2 -
+/events/category/event/2020-02-28/ 1 -
+/download.php 6 -
+/dashboard-gnome.html 1 -
+/events/category/event/2019-09-12/ 2 -
+/wp-content/themes/TheLoft/download.php 2 -
+/newsleter.php 1 -
+/events/category/event/2019-10/ 1 -
+/listings-stats-dashboard/ 2 -
+/avada_portfolio/and-the-ampersand/ 1 -
+/wp-config.php_bak 1 -
+/wp-content/plugins/wp-hello-plugin/wp-hello-plugin.php.suspected 1 -
+/wordpress.gz 1 -
+/hire-writer 2 -
+/events/category/event/2019-07-09/ 1 -
+/ 8 -
+/admissions/ 1 -
+/cgi-bin.zip 1 -
+/events/category/event/2019-11-17/ 1 -
+/phpMyAdmin/ 1 -
+/rt18_archive.tar.gz 1 -
+/register/ 2 -
+/wp-content/plugins/wp-product-review/assets/js/main.js 1 -
+/wp-content/plugins/wc-frontend-manager/readme.txt 1 -
+/wp-content/plugins/the-events-calendar/common/src/resources/js/tribe-common.min.js 2 https://nomeworkz.com/
+/wp-content/plugins/wp-job-manager-reviews/assets/css/wp-job-manager-reviews.css 1 https://nomeworkz.com/
+/rt18_archive.gzip 1 -
+/content-post.php 1 -
+/wp-content/uploads/2020/01/wp-simple-plugin.php.suspected 1 -
+/old.gzip 1 -
+/wp-content/cache/log/000000/varnish.log 1 -
+/wp.tar.gz 1 -
+/events/category/event/2019-11-06/ 2 -
+/annotated-bibliography-writing-service.html 1 -
+/noticuba.org.rar 1 -
+/wp-content/uploads/2020/01/backup-nnlg.php.suspected 1 -
+/installer.gzip 1 -
+/quick_install_archive.tar.gz 1 -
+/license.php 1 -
+/coursework-writing.html 5 -
+/events/category/event/2020-01-11/ 1 -
+/app.gzip 1 -
+/contact/ 1 -
+/.well-known/assetlinks.json 2 -
+/app.rar 1 -
+/uncategorized/hello-world/2019/11/03/ 1 -
+/wp-content/uploads/2019/11/wp-simple-plugin.php.suspected 1 -
+/OMC_template.gz 1 -
+/wp-content/themes/Avada/assets/css/style.min.css 1 https://nomeworkz.com/
+/wp-config-backup.txt 1 -
+/wp-content/uploads/2018/11/wp-upd.php 1 -
+/events/category/event/2019-08-20/ 1 -
+/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js 2 https://nomeworkz.com/
+/wp-content/uploads/2020/03/wp-hello-plugin-1.php 1 -
+/events/category/event/2019-08-25/ 1 -
+/events/category/event/2020-03-10/ 1 -
+/cms.zip 1 -
+/old.rar 1 -
+/events/category/event/2019-07-05/ 1 -
+/mysqladmin/ 1 -
+/quick_install_archive.gzip 1 -
+/dump.zip 1 -
+/wp-e-commerce/wpsc-includes/misc.functions.php 2 -
+/wp-content/plugins/wp-hide-security-enhancer/router/file-process.php 2 -
+/scholarship-essay-writing-service.html 2 https://nomeworkz.com
+/OMC_template.tar.gz 1 -
+/wp-config.txt 1 -
+/force-download.php 2 -
+/wp-content/themes/markant/download.php 2 -
+/wp-content/plugins/supersociall/supersociall.php 1 -
+/wp-content/plugins/sam-pro-free/sam-pro-ajax-admin.php 2 -
+/wp-content/plugins/supersociall/supersociall.php.suspected 1 -
+/archive.rar 1 -
+/db.gz 1 -
+/wp-json/visualizer/v1/update-chart 4 -
+/db.zip 1 -
+/events/2019-07-02/ 1 -
+/wp-content/uploads/2020/03/wp-simple-plugin.php 1 -
+/events/category/event/2020-03-26/ 1 -
+/events/category/event/2020-03/ 1 -
+/event/english-seminar/ 1 -
+/wp-content/plugins/download-shortcode/inc/force-download.php 2 -
+/events/category/event/2020-02-12/ 1 -
+/wp-content/plugins//hb-audio-gallery-lite/gallery/audio-download.php 2 -
+/wp-content/themes/endlesshorizon/download.php 2 -
+/database/ 1 -
+/university-news/what-do-successful-grads-think-you-should-study/2016/03/16/ 1 -
+/InCreate-FullPackage.rar 1 -
+/events/category/event/2019-11-30/ 1 -
+/events/category/event/2019-08-01/ 1 -
+/events/category/event/2019-12-18/ 1 -
+/wp-content/plugins/sf-booking/lib/downloads.php 4 -
+/events/category/event/2019-12-16/ 1 -
+/.env 1 -
+/.well-known/wp-craft-report.php.suspected 1 -
+/events/category/event/ 1 -
+/wp-craft-report-site.php 1 -
+/events/category/event/2019-08-15/ 1 -
+/wp-crawl.php.suspected 1 -
+/events/category/event/2019-11-22/ 1 -
+/wp-content/plugins/wp-source-control/downloadfiles/download.php 2 -
+/master.gz 1 -
+/job/test-title/ 2 -
+/noticuba.org.gzip 1 -
+/events/category/event/2019-12-12/ 1 -
+/wp-content/themes/mTheme-Unus/css/css.php 2 -
+/wp-content/uploads/file-manager/log.txt 1 -
+/un/get_last_order 29 https://nomeworkz.com/index.php
+/login 3 -
+/rt18_archive.rar 1 -
+/events/category/event/2019-07-08/ 1 -
+/wordpress.gzip 1 -
+/events/category/event/2020-02-23/ 1 -
+/events/ 2 -
+/wp-content/uploads/2020/02/wp-block-plugin.php 1 -
+/wp-config.php.orig 1 -
+/wp-content/plugins/paypal-currency-converter-basic-for-woocommerce/proxy.php 2 -
+/phpMyAdmin/scripts/setup.php 3 -
+/wp-config.original 1 -
+/home/ 1 -
+/wp-content/plugins/convertplug/modules/info_bar/assets/css/info_bar.min.css 1 -
+/.well-known/wp-build-report.php 1 -
+/cms.gz 1 -
+/events/category/event/2019-08-03/ 1 -
+/wp-build-report-site.php 1 -
+/wp-content/plugins/brizy/admin/site-settings.php 1 -
+/wp-content/plugins/the-events-calendar/common/src/resources/css/reset.min.css 1 https://nomeworkz.com/
+/wp-content/uploads/2020/02/wp-zip-plugin-2.php 1 -
+/latest-news/ 1 -
+/wp-content/plugins/gravityforms/css/formsmain.min.css 1 https://nomeworkz.com/avada_portfolio/beyond-labels/
+/events/category/event/2019-07-22/ 1 -
+/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_adminbarstyle.css 2 -
+/web.tar.gz 1 -
+/archive.gzip 1 -
+/wp-content/uploads/2020/03/wp-simple-plugin-2.php 1 -
+/avada_portfolio/the-notebook/ 1 -
+/wp-content/uploads/wp-crawl.php 1 -
+/wp-content/uploads/2020/02/wp-simple-plugin.php 1 -
+/archive.gz 1 -
+/events/category/event/2019-10-10/ 2 -
+/wp-craft-report.php.suspected 1 -
+/events/category/event/2019-11-10/ 1 -
+/events/category/event/2019-10-24/ 1 -
+/wp-content/plugins/revslider/public/assets/js/rs6.min.js 2 https://nomeworkz.com/
+/wp-content/themes/estrutura-basica/scripts/download.php 2 -
+/2016/01/ 1 -
+/wp-tmp5.php 1 -
+/wp-content/uploads/wp-craft-report.php.suspected 1 -
+/wp-content/themes/acento/includes/view-pdf.php 2 -
+/db/ 1 -
+/events/category/event/2019-11-11/ 1 -
+/wp-config.tar 1 -
+/noto.zip 1 -
+/events/category/event/2019-11-01/ 1 -
+/wp-content/plugins/gravityforms/js/jquery.textareaCounter.plugin.min.js 1 https://nomeworkz.com/avada_portfolio/beyond-labels/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 35
+52.208.41.38 8 8 349488 20200512005839
+173.212.246.231 7 7 394371 20200530133215
+137.226.113.27 4 4 56666 20200525090856
+94.23.28.132 3 3 101535 20200527172731
+94.23.3.130 3 3 101535 20200527213203
+207.180.255.81 2 2 28326 20200523014116
+137.226.113.28 2 2 28326 20200525162439
+183.136.225.46 2 2 146418 20200524220531
+138.246.253.15 2 2 0 20200511193150
+91.207.254.32 2 2 87372 20200516232046
+54.149.158.19 1 1 14177 20200506000218
+103.13.242.215 1 1 14177 20200502140331
+34.223.53.222 1 1 14177 20200505230216
+134.122.1.101 1 1 73536 20200505120257
+134.122.1.152 1 1 73536 20200505120255
+216.180.111.31 1 1 14163 20200513095618
+137.226.113.26 1 1 14177 20200505062534
+13.232.73.200 1 10 384500 20200511233355
+130.61.83.191 1 1 73209 20200515114422
+76.99.170.171 1 29 7448801 20200518155340
+35.162.75.51 1 1 14177 20200507230909
+64.225.29.67 1 1 73536 20200505103331
+197.51.248.90 1 1 73209 20200517042000
+165.227.35.253 1 1 0 20200523170707
+104.248.148.32 1 1 14177 20200501221223
+54.148.90.9 1 1 14163 20200531232254
+34.212.152.148 1 1 14163 20200519230610
+114.119.162.4 1 2 77098 20200501092639
+35.222.170.114 1 1 73209 20200518075253
+141.101.143.24 1 1 14163 20200525144519
+138.197.144.119 1 1 0 20200523170708
+34.217.8.36 1 1 14163 20200522233059
+120.79.140.115 1 1 73209 20200520234754
+34.222.191.109 1 1 14163 20200518231304
+137.226.113.21 1 20 267666 20200501220748
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20200501 3 22 290175 3
+20200502 1 1 14177 1
+20200504 1 1 0 1
+20200505 6 6 263139 6
+20200506 1 1 14177 1
+20200507 1 1 14177 1
+20200511 2 11 384500 2
+20200512 9 9 363651 2
+20200513 1 1 14163 1
+20200515 1 1 73209 1
+20200516 2 2 87372 1
+20200517 1 2 141975 1
+20200518 5 32 14699967 5
+20200519 1 1 14163 1
+20200520 1 1 73209 1
+20200522 1 1 14163 1
+20200523 4 4 28326 3
+20200524 2 2 146418 2
+20200525 3 3 42489 3
+20200527 6 6 203070 2
+20200530 7 7 394371 1
+20200531 1 1 14163 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 1
+0s-30s 39
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 59 2079070 40 40
+/hire.php 1 8332 1 1
+END_SIDER

@@ -1,0 +1,2 @@
+[28-Feb-2020 05:19:40 UTC] PHP Notice:  Undefined variable: e in /home/cn96pr509li7/public_html/nomeworkz/include/db.php on line 2
+[28-Feb-2020 05:19:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nome'@'localhost' (using password: YES) in /home/cn96pr509li7/public_html/nomeworkz/include/db.php on line 2

@@ -1,0 +1,49 @@
+--- 
+files: 
+  certificate: 
+    nomeworkz_com_c4174_2ad83_1613402323_aee23a9caaaa6d8533fc9d361617954f: 
+      created: '1581866323'
+      domains: 
+        - nomeworkz.com
+        - mail.nomeworkz.com
+        - www.nomeworkz.com
+        - webmail.nomeworkz.com
+        - cpanel.nomeworkz.com
+        - webdisk.nomeworkz.com
+        - autodiscover.nomeworkz.com
+      friendly_name: Cert for “nomeworkz.com”
+      id: nomeworkz_com_c4174_2ad83_1613402323_aee23a9caaaa6d8533fc9d361617954f
+      is_self_signed: 1
+      issuer.commonName: nomeworkz.com
+      issuer.organizationName: ~
+      modulus: c41742a0065c9c599850fb12bf1a5dbe0b4ec73f5625c6729a93dc4ef4ac4dcf71eb80eaa55f2ca650971900394a5f07d91a4eae1fc4e5a7edf74c686580e140da14949478aa9e5868a6a67a6769448b3ba90e84525634cd4f7d05c3ffec5352ca23fd2faba8611a75181cfe9c028d010b9266f988bb9f3a0fc728375f98a5faab386988458ddecc71cbf3aff5c8aa3d12505314a5a576c44c926f4719bad0a57e426a74d3a6a168dc45d2fcb06492653f87c39fbf60218a46c7479d0fdc76d818a6c4cd37704177063d770b64ecbe77de1d0a9f7abf8bee900766a40093402cd054d20e0f2506ee738d0ee052113b1f97702829cf462c08227f02b0e772ad83
+      modulus_length: 2048
+      not_after: '1613402323'
+      not_before: '1581866323'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: nomeworkz.com
+      validation_type: ~
+  key: 
+    c4174_2ad83_5103be1e9ad8386ba89e28a7afa2d01b: 
+      created: '1581866323'
+      friendly_name: Key for “nomeworkz.com”
+      id: c4174_2ad83_5103be1e9ad8386ba89e28a7afa2d01b
+      modulus: c41742a0065c9c599850fb12bf1a5dbe0b4ec73f5625c6729a93dc4ef4ac4dcf71eb80eaa55f2ca650971900394a5f07d91a4eae1fc4e5a7edf74c686580e140da14949478aa9e5868a6a67a6769448b3ba90e84525634cd4f7d05c3ffec5352ca23fd2faba8611a75181cfe9c028d010b9266f988bb9f3a0fc728375f98a5faab386988458ddecc71cbf3aff5c8aa3d12505314a5a576c44c926f4719bad0a57e426a74d3a6a168dc45d2fcb06492653f87c39fbf60218a46c7479d0fdc76d818a6c4cd37704177063d770b64ecbe77de1d0a9f7abf8bee900766a40093402cd054d20e0f2506ee738d0ee052113b1f97702829cf462c08227f02b0e772ad83
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      c41742a0065c9c599850fb12bf1a5dbe0b4ec73f5625c6729a93dc4ef4ac4dcf71eb80eaa55f2ca650971900394a5f07d91a4eae1fc4e5a7edf74c686580e140da14949478aa9e5868a6a67a6769448b3ba90e84525634cd4f7d05c3ffec5352ca23fd2faba8611a75181cfe9c028d010b9266f988bb9f3a0fc728375f98a5faab386988458ddecc71cbf3aff5c8aa3d12505314a5a576c44c926f4719bad0a57e426a74d3a6a168dc45d2fcb06492653f87c39fbf60218a46c7479d0fdc76d818a6c4cd37704177063d770b64ecbe77de1d0a9f7abf8bee900766a40093402cd054d20e0f2506ee738d0ee052113b1f97702829cf462c08227f02b0e772ad83: 
+        nomeworkz_com_c4174_2ad83_1613402323_aee23a9caaaa6d8533fc9d361617954f: ~
+    subject.commonName: 
+      nomeworkz.com: 
+        nomeworkz_com_c4174_2ad83_1613402323_aee23a9caaaa6d8533fc9d361617954f: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “nomeworkz.com”: nomeworkz_com_c4174_2ad83_1613402323_aee23a9caaaa6d8533fc9d361617954f
+  key: 
+    friendly_name: 
+      Key for “nomeworkz.com”: c4174_2ad83_5103be1e9ad8386ba89e28a7afa2d01b
+    modulus: 
+      c41742a0065c9c599850fb12bf1a5dbe0b4ec73f5625c6729a93dc4ef4ac4dcf71eb80eaa55f2ca650971900394a5f07d91a4eae1fc4e5a7edf74c686580e140da14949478aa9e5868a6a67a6769448b3ba90e84525634cd4f7d05c3ffec5352ca23fd2faba8611a75181cfe9c028d010b9266f988bb9f3a0fc728375f98a5faab386988458ddecc71cbf3aff5c8aa3d12505314a5a576c44c926f4719bad0a57e426a74d3a6a168dc45d2fcb06492653f87c39fbf60218a46c7479d0fdc76d818a6c4cd37704177063d770b64ecbe77de1d0a9f7abf8bee900766a40093402cd054d20e0f2506ee738d0ee052113b1f97702829cf462c08227f02b0e772ad83: c4174_2ad83_5103be1e9ad8386ba89e28a7afa2d01b

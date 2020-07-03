@@ -1,0 +1,742 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202003 will be lost/reset.
+# Last config file used to build this data file was /home/yxsyupt24clh/tmp/awstats/awstats.nomeworkz.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2691                
+POS_VISITOR 17931               
+POS_DAY 22030               
+POS_DOMAIN 3465                
+POS_LOGIN 3867                
+POS_ROBOT 4022                
+POS_WORMS 4656                
+POS_EMAILSENDER 4787                
+POS_EMAILRECEIVER 4930                
+POS_SESSION 22480               
+POS_SIDER 22680               
+POS_FILETYPES 5065                
+POS_DOWNLOADS 5267                
+POS_OS 5355                
+POS_BROWSER 5664                
+POS_SCREENSIZE 6765                
+POS_UNKNOWNREFERER 6839                
+POS_UNKNOWNREFERERBROWSER 7416                
+POS_ORIGIN 7748                
+POS_SEREFERRALS 7886                
+POS_PAGEREFS 8049                
+POS_SEARCHWORDS 8219                
+POS_KEYWORDS 8371                
+POS_MISC 2355                
+POS_ERRORS 8430                
+POS_CLUSTER 3723                
+POS_SIDER_404 8528                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200401002425 14 2411 9479991564606
+FirstTime 20200316001250
+LastTime 20200331191046
+LastUpdate 20200401052142 14 0 13 0 0
+TotalVisits 75                  
+TotalUnique 58                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 127                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 68 106 1983619 41 84 468252
+1 2 2 16173 21 29 306786
+2 0 0 0 5 19 213849
+3 0 0 0 6 9 237999
+4 4 5 244287 1 4 15855
+5 43 43 694479 12 17 101519
+6 10 205 110555437 12 121 155633
+7 7 321 167406759 20 92 202795
+8 7 51 15134782 45 46 33883
+9 6 111 72500252 12 13 47012
+10 9 229 130759531 15 17 66235
+11 0 1 14299251 8 12 7059359
+12 5 51 53725527 11 54 434682
+13 1 1 16173 9 21 222182
+14 10 140 58542025 12 19 345394
+15 7 7 103433 11 14 40870
+16 1 1 16173 5 12 72784
+17 1 1 16173 17 21 68012
+18 3 3 16173 25 35 67214
+19 4 30 675512 5 11 33804
+20 0 0 0 1 2 16173
+21 10 10 271496 9 24 218783
+22 37 81 15546621 10 12 69613
+23 42 139 3854948 11 33 220696
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 161 1196 311786899
+il 82 217 5132589
+ru 7 7 669974
+nl 7 7 95555
+sc 6 6 97546
+fr 3 3 157777
+vn 3 3 317022
+ie 2 93 15830756
+gb 2 2 32346
+es 1 1 16173
+cn 1 1 16173
+de 1 1 16173
+se 1 1 16173
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Googlebot/ 218 2540104 20200331143021 0
+facebookexternalhit/ 9 300468 20200316140226 0
+Googlebot\-Image/ 9 106776 20200319133709 0
+YandexBot/ 7 170297 20200330190836 0
+AhrefsBot/ 5 80865 20200331081157 0
+no_user_agent 4 422696 20200326112704 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 32346 20200319054349 0
+curl 1 16173 20200329221551 0
+Googlebot\-Video/ 1 6916201 20200318112937 0
+[\s_+:,\.\;\/\\-]bot 1 16173 20200320091219 0
+bot[\s_+:,\.\;\/\\-] 1 16173 20200325032921 0
+bingbot/ 1 16173 20200323003138 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+mp4 6 312193668 0 0
+jpg 220 4330311 0 0
+html 277 5507006 0 0
+svg 102 305147 0 0
+png 594 7348618 0 0
+js 276 2667319 0 0
+css 63 1833087 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/files/feature-video.mp4 1 69 319109869
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+unix 30 1
+win8.1 15 6
+macosx7 8 5
+macosx12 65 4
+winlong 13 9
+macosx 301 7
+macosx10 1 1
+win8 17 4
+linuxubuntu 3 1
+linux 353 124
+Unknown 37 22
+macosx6 9 3
+macosx9 21 9
+ios_iphone 600 23
+macosx8 12 7
+win7 107 38
+winxp 11 9
+win10 3 3
+macosx11 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 55
+chrome80.0.3987.132 300 6
+firefox59.0 1 1
+chrome41.0.2224.3 1 1
+safari 1 1
+firefox26.0 31 14
+chrome49.0.2623.75 2 1
+chrome51.0.2704.103 2 2
+firefox52.9 94 94
+safari6.1.1 4 2
+chrome53.0.2785.143 1 1
+chrome41.0.2227.0 1 1
+chrome78.0.3904.97 3 3
+chrome32.0.1700.41 5 5
+firefox24.0 1 0
+chrome25.0.1364.172 1 1
+safari6.1 4 3
+chrome32.0.1700.68 1 1
+msie11.0 16 5
+safari6.0.5 3 1
+chrome31.0.1650.63 30 14
+safari7.0.1 2 0
+chrome68.0.3440.106 3 3
+chrome31.0.1650.57 42 4
+chrome76.0.3809.132 1 1
+chrome80.0.3987.158 30 1
+chrome34.0.1847.116 7 7
+firefox36.0 9 3
+msie11 2 0
+chrome35.0.1916.153 2 1
+safari5.1.9 4 1
+safari13.0.5 599 22
+chrome40.0.2214.111 2 1
+safari7.0 6 1
+chrome67.0.3396.99 2 2
+netscape 1 1
+firefox60.0 2 2
+opera12.16 3 1
+safari12.1.2 65 4
+firefox28.0 4 2
+chrome79.0.3945.88 224 5
+msie10.0 12 4
+chrome41.0.2226.0 1 1
+firefox29.0 2 0
+Unknown 26 13
+firefox25.0 8 5
+chrome32.0.1700.72 3 1
+firefox27.3 1 1
+firefox31.0 2 0
+mozilla 24 22
+chrome19.0.1084.52 1 1
+msie9.0 6 4
+safari7.0.3 1 1
+firefox27.0 6 3
+chrome80.0.3987.116 1 1
+chrome12.0.742.91 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Go-http-client/1.1 20200331081421
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200331191046
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20200324131218
+Ruby 20200316162319
+Mozilla/6.0_(compatible) 20200326235614
+cortex/1.0 20200329121806
+adreview/1.0 20200329121806
+Mozilla/5.0_(compatible;_ips-agent) 20200317151529
+Mozilla/5.0_(compatible) 20200326235639
+python-requests/2.23.0 20200326142307
+Mozilla 20200316001731
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+python-requests/2.23.0 20200326142307
+Ruby 20200316162319
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20200324131218
+cortex/1.0 20200329121806
+adreview/1.0 20200329121806
+Go-http-client/1.1 20200331081421
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 90 408
+From1 1 1
+From2 2 2
+From3 0 1
+From4 184 1195
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://domain.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 2 84939
+404 454 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 210
+/.vscode/ftp-sync.json 1 -
+/js_min/min/responsify-analytics-min.js 1 -
+/test/web.config.txt 1 -
+/website/wp-includes/wlwmanifest.xml 1 -
+/auth/.env 1 -
+/files/4.svg 2 http://nomeworkz.com/research-paper-editing-service.html
+/login/.env 1 -
+/vue/.env 1 -
+/files/clock.png 3 http://nomeworkz.com/research-paper-editing-service.html
+/vendor/phpunit/phpunit/src/Util/PHP/Template/TestCaseMethod.tpl.dist 1 -
+/feed/ 1 -
+/wicket/resource/uk.bl.ukpmc.web.panels.survey.ExploreBetaPanel/ExploreBetaPanel-ver-22824A545362225829F24B059F7AFA44.js 1 -
+/template/hoverIntent.js 1 -
+/bioJs/dependencies/jsmol-14.29.10/jsmol/JSmol.min.nojq.js 1 -
+/site/license.txt 1 -
+/wp-json/wp/v2/users/ 3 -
+/laravel-artisan/.env 1 -
+/admin 4 -
+/files/feature-video.mp4 1 http://nomeworkz.com/
+/bioJs/dependencies/jsmol-14.29.10/jsmol/js/Jmol2.js 1 -
+/protected/.env 1 -
+/bioJs/js/Biojs.AnnotatorBase.js 1 -
+/wicket/resource/uk.bl.ukpmc.web.panels.survey.ExploreBetaPanel/ExploreBetaPanel-ver-2B5B80B260113383048A7BD050A6189A.css 1 -
+/files/4.png 2 http://nomeworkz.com/research-paper-editing-service.html
+/bioJs/js/Biojs.AnnotatorAction.js 1 -
+/bioJs/js/Biojs.AnnotatorDisgenet.js 1 -
+/core/.env 1 -
+/wp-content/plugins/acf-frontend-display/readme.txt 1 -
+/wicket/resource/org.apache.wicket.extensions.ajax.markup.html.modal.ModalWindow/res/modal.min-ver-E43C9229F7812A6259B89C7E5B5028FB.js 1 -
+/pay-for-essays.com 2 http://www.nomeworkz.com/essay-writing-help-online.html
+/comments/feed/ 1 -
+/Scripts/wz_tooltip.js 1 -
+/docker/.env 1 -
+/document/.env 1 -
+/template/enrichment.js 1 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+/template/font-awesome/css/all.min.css 1 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/css_min/min/annotation_highlight-min.css 1 -
+/cp/.env 1 -
+/js_min/min/Affiliations-min.js 1 -
+/bioJs/js/Biojs.AnnotatorGreco.js 1 -
+/wp-content/plugins/attachment-manager/readme.txt 1 -
+/template/jquery_ui.css 1 -
+/template/EPMC-iconfont/style.css 1 -
+/js/asset_subdomain/1fd98f5.js 5 http://nomeworkz.com/research-paper-editing-service.html
+/template/ncbi/epmc.ncbi.css 1 -
+/bioJs/js/Biojs.AnnotatorNCBI.js 1 -
+/web/license.txt 1 -
+/js_min/min/epmc-min.js 1 -
+/wicket/resource/org.apache.wicket.ajax.AbstractDefaultAjaxBehavior/res/js/wicket-event-jquery.min-ver-F070EDFAD7E5A1BD9662F385470094FF.js 1 -
+/wp-login.php 5 -
+/app/.env 1 -
+/js/asset_subdomain/ec9343b.js 6 http://nomeworkz.com/research-paper-editing-service.html
+/wicket/resource/org.apache.wicket.ajax.AbstractDefaultAjaxBehavior/res/js/wicket-ajax-jquery.min-ver-1D4EE56166B3A1106E05B678CC2AB1EF.js 1 -
+/wordpress/wp-admin/install.php 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/admin/ 1 -
+/test/wp-includes/wlwmanifest.xml 1 -
+/deployment/.env 1 -
+/back/.env 1 -
+/apps/.env 1 -
+/css_min/min/labs_links-min.css 1 -
+/news/wp-includes/wlwmanifest.xml 1 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/admin.php 4 -
+/files/amex.svg 2 http://nomeworkz.com/research-paper-editing-service.html
+/wp-content/plugins/mailpress/mp-includes/action.php 1 -
+/cli/.env 1 -
+/ads.txt 2 -
+/Scripts/snippet_component.js 1 -
+/template/epmc.js 1 -
+/files/facebook.png 3 http://nomeworkz.com/research-paper-editing-service.html
+/template/jquery_menu.css 1 -
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/server/.env 1 -
+/personal/.env 1 -
+/main/license.txt 1 -
+/apple-touch-icon-precomposed.png 3 -
+/humans.txt 1 -
+/laravel/.env 1 -
+/master/.env 1 -
+/sito/wp-includes/wlwmanifest.xml 1 -
+/js/asset_subdomain/d570ab4.js 6 http://nomeworkz.com/research-paper-editing-service.html
+/ftpsync.settings 1 -
+/wicket/resource/org.europepmc.account.AccountSigninPanel/AccoutSigninPanel-ver-C2CD8F3C164FCF7139E288A14085A9AA.js 1 -
+/config/.env 1 -
+/backup/license.txt 1 -
+/administrator/ 4 -
+/arx/license.txt 1 -
+/template/yahoo-min.js 1 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+/bitrix/admin/ 1 -
+/application/.env 1 -
+/files/favicon.png 1 http://nomeworkz.com/
+/wicket/resource/org.apache.wicket.resource.JQueryResourceReference/jquery/jquery-1.11.1.min-ver-8101D596B2B8FA35FE3A634EA342D7C3.js 1 -
+/files/logo.png 4 http://nomeworkz.com/research-paper-editing-service.html
+/css/asset_subdomain/60865ce.css 3 http://nomeworkz.com/research-paper-editing-service.html
+/framework/.env 1 -
+/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js 3 http://nomeworkz.com/research-paper-editing-service.html
+/tr_id_827340874076871_ev_PageView_noscript_1.gif 1 -
+/template/jquery.js 1 -
+/bioJs/js/Biojs.Annotator.js 1 -
+/template/epmc_new.css 1 -
+/private/.env 1 -
+/bioJs/js/Biojs.AnnotatorOpenTarget.js 1 -
+/bioJs/js/AnnotatorSharedData.js 1 -
+/web/.env 1 -
+/files/2.svg 2 http://nomeworkz.com/research-paper-editing-service.html
+/wp-admin/ 4 http://nomeworkz.com/wp-login.php
+/files/instagram.png 3 http://nomeworkz.com/research-paper-editing-service.html
+/files/1.svg 2 http://nomeworkz.com/research-paper-editing-service.html
+/web/wp-includes/wlwmanifest.xml 1 -
+/bioJs/js/Biojs.js 1 -
+/.remote-sync.json 1 -
+/css_min/min/advanced_search-min.css 1 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/Scripts/jquery.gchart.min.js 1 -
+/deployment-config.json 1 -
+/development/.env 1 -
+/files/2.png 2 http://nomeworkz.com/research-paper-editing-service.html
+/wicket/resource/com.googlecode.wicket.jquery.core.resource.JQueryUIResourceReference/jquery-ui.min-ver-80CBC031ED1AE0BD82C578DD2D6A4EA0.js 1 -
+/dev/.env 1 -
+/refresh-csrf-token 6 http://nomeworkz.com/
+/Scripts/unpaywall.js 1 -
+/admin/.env 1 -
+/wp-content/plugins/wp-dreamworkgallery/readme.txt 1 -
+/privacy.html 9 http://nomeworkz.com
+/.ftpconfig 1 -
+/sitemap_index.xml 3 -
+/src/.env 1 -
+/files/1.png 2 http://nomeworkz.com/research-paper-editing-service.html
+/files/visa.svg 2 http://nomeworkz.com/research-paper-editing-service.html
+/files/thumbs-up.png 3 http://nomeworkz.com/research-paper-editing-service.html
+/bioJs/js/Biojs.Protein3D.js 1 -
+/project/.env 1 -
+/rest/.env 1 -
+/js_min/min/annotation_highlight-min.js 1 -
+//wp-admin/install.php 1 -
+/css/asset_subdomain/735de05.css 3 http://nomeworkz.com/research-paper-editing-service.html
+/search/.env 1 -
+/files/3.svg 2 http://nomeworkz.com/research-paper-editing-service.html
+/api/.env 1 -
+/js_min/min/biojs_functions-min.js 1 -
+/dependencies/.env 1 -
+/robots.txt 52 -
+/bioJs/js/Biojs.AnnotatorIntact.js 1 -
+/css_min/min/jquery-ui-min.css 1 -
+/wicket/resource/uk.bl.ukpmc.web.panels.survey.ExploreBetaMobilePanel/ExploreBetaMobilePanel-ver-93014D61EF1A833C5FAFBCD3BC45948D.css 1 -
+/temp/license.txt 1 -
+/files/headphones.png 3 http://nomeworkz.com/research-paper-editing-service.html
+/system/.env 1 -
+/tel:+18888888888 4 http://nomeworkz.com
+/css_min/min/orcid-min.css 1 -
+/site/.env 1 -
+/files/3.png 2 http://nomeworkz.com/research-paper-editing-service.html
+/backend/.env 1 -
+/template/snippet_component.css 1 -
+/lets-talk/ 1 -
+/files/approval.png 3 http://nomeworkz.com/research-paper-editing-service.html
+/bioJs/js/Biojs.AnnotatorEvent.js 1 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/apple-touch-icon.png 3 -
+/local/.env 1 -
+/wp-content/plugins/4nton-extensions/readme.txt 1 -
+/xmlrpc.php 1 -
+/files/twitter.png 3 http://nomeworkz.com/research-paper-editing-service.html
+/license.txt 1 -
+/bioJs/js/sbd_tokenizer.js 1 -
+/terms.html 9 http://nomeworkz.com
+/js/asset_subdomain/ec8cf34.js 5 http://nomeworkz.com/research-paper-editing-service.html
+/sftp-config.json 1 -
+/_wp/license.txt 1 -
+/js/asset_subdomain/76332f5.js 3 http://nomeworkz.com/research-paper-editing-service.html
+/engine/.env 1 -
+/2019/wp-includes/wlwmanifest.xml 1 -
+/bioJs/js/Biojs.AnnotatorGeneRef.js 1 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/un/get_last_order 73 http://nomeworkz.com/
+/administrator/index.php 4 http://nomeworkz.com/administrator/
+/Scripts/loglevel.min.js 2 -
+/files/linkedin.png 3 http://nomeworkz.com/research-paper-editing-service.html
+/wicket/resource/uk.bl.ukpmc.web.pages.template.TemplatePage/TemplatePage-ver-540ECA69167ECC178EB8C919D0809EB3.js 1 -
+/vod_installer/.env 1 -
+/frontend/.env 1 -
+/template/dom-min.js 1 -
+/Scripts/snippet_storage.js 1 -
+/wicket/resource/uk.bl.ukpmc.web.panels.citations.components.GrantSearchPanel/GrantSearchPanel-ver-AB653BBCFFE2432CE214E29686301A8D.js 1 -
+/back/license.txt 1 -
+/.vscode/sftp.json 1 -
+/files/mc.svg 2 http://nomeworkz.com/research-paper-editing-service.html
+/recent-work/ 1 -
+/shared/.env 1 -
+/bioJs/js/Biojs.Protein3DCanvas.js 1 -
+/Scripts/recaptcha_ajax.js 1 -
+/res/license.txt 1 -
+/js/asset_subdomain/3dfbab1.js 6 http://nomeworkz.com/research-paper-editing-service.html
+/Scripts/css_browser_selector.js 1 -
+/files/discover.svg 2 http://nomeworkz.com/research-paper-editing-service.html
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/privacy 3 http://nomeworkz.com/
+/files/pp-white.svg 2 http://nomeworkz.com/research-paper-editing-service.html
+/reserv/license.txt 1 -
+/www/license.txt 1 -
+/template/enrichment.css 1 -
+/template/unpaywall.css 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/js/asset_subdomain/2e72241.js 3 http://nomeworkz.com/research-paper-editing-service.html
+/wicket/resource/org.apache.wicket.extensions.ajax.markup.html.modal.ModalWindow/res/modal.min-ver-E99D4201F0F6C5D3081AD42ACB1F22C2.css 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 127
+82.80.230.228 41 132 3031290 20200327002521
+82.80.249.192 39 41 661256 20200326232029
+23.108.86.150 35 35 582751 20200325055036
+141.164.88.230 34 34 566578 20200317220352
+23.83.87.105 17 17 290381 20200316001505
+76.99.57.117 11 425 104113149 20200323081449
+98.114.22.105 9 186 44694782 20200327102222
+73.233.171.122 8 250 66821710 20200328073128
+46.101.9.216 7 7 95555 20200328052056
+168.81.94.225 6 6 97546 20200318215146
+188.143.169.29 4 4 422696 20200330043016
+69.58.178.58 4 4 54914 20200317151529
+109.169.211.165 3 3 247278 20200324083959
+42.115.43.132 3 3 317022 20200330003542
+35.231.231.82 2 2 16173 20200325063256
+35.231.10.251 2 2 16173 20200321010142
+99.203.17.52 2 48 14878976 20200327105157
+62.210.79.40 2 2 141604 20200322215339
+35.231.238.97 2 2 16173 20200329145714
+54.147.248.244 2 2 32346 20200331081421
+35.237.116.101 2 2 16173 20200316234417
+35.231.154.76 2 2 16173 20200329143941
+104.168.182.234 2 2 33883 20200324004841
+104.131.199.240 2 2 16173 20200316001731
+172.58.203.38 2 51 14895273 20200316065748
+82.80.249.155 0 5 21685 
+173.252.87.31 0 1 68766 
+3.224.60.96 1 1 16173 20200317003144
+31.13.115.17 0 4 32759 
+64.233.172.206 1 2 31390 20200317121842
+34.222.182.253 1 1 16173 20200321000806
+46.183.117.240 1 1 16173 20200324131218
+165.227.71.95 1 1 105674 20200331145351
+31.13.127.17 1 13 129100 20200328141758
+69.171.251.44 0 11 144605 
+82.80.249.202 1 1 105674 20200327002502
+54.151.14.216 1 1 16173 20200327155451
+31.13.127.16 0 3 140126 
+172.58.203.243 1 31 7509273 20200316065758
+31.13.115.5 0 1 2594 
+138.197.162.93 1 1 0 20200316183005
+69.171.251.6 0 1 7135468 
+173.252.95.42 0 2 6445287 
+173.252.87.42 0 1 68766 
+173.252.95.3 0 1 28311 
+31.13.127.5 0 8 136657 
+64.246.161.30 1 1 16173 20200331173400
+69.171.251.2 0 6 93461 
+69.171.251.35 0 1 68766 
+82.80.249.194 0 1 34053 
+173.252.95.25 0 1 424 
+31.13.115.1 0 6 92668 
+99.203.16.132 0 3 7163781 
+31.13.127.10 0 7 113199 
+64.225.14.226 1 1 105674 20200331191046
+82.80.249.214 1 1 16173 20200326231815
+69.171.251.31 0 2 43528 
+69.171.251.46 0 1 68766 
+184.168.224.231 1 1 16173 20200316162319
+31.13.115.24 0 1 4599 
+82.80.249.204 0 1 3923 
+173.252.95.7 0 1 7135468 
+69.171.251.15 0 2 6775559 
+66.146.237.92 1 1 16173 20200317220317
+69.171.251.3 0 1 2594 
+173.252.95.2 0 6 66549 
+31.13.115.15 0 2 43528 
+207.241.229.161 1 1 0 20200317122132
+173.252.95.43 0 2 15313 
+31.13.115.13 0 4 23796 
+82.80.249.143 0 8 607784 
+82.80.249.227 0 3 108896 
+69.171.251.5 0 5 11814 
+31.13.127.13 0 1 4399 
+31.13.127.9 0 2 34305 
+82.80.249.152 0 3 184544 
+31.13.115.8 0 11 198329 
+82.80.249.163 0 3 2650 
+31.13.127.8 0 1 1285 
+173.252.87.16 0 1 68766 
+173.252.95.17 0 1 5001 
+69.171.251.30 0 1 1285 
+69.171.251.33 0 3 6710 
+192.36.70.176 1 1 16173 20200330054220
+59.110.137.151 1 1 16173 20200325082658
+69.171.251.22 0 1 4599 
+69.171.251.14 1 11 173099 20200319104533
+173.252.95.32 0 8 122450 
+173.252.95.4 0 3 1433 
+5.62.56.15 1 1 16173 20200327042654
+173.252.95.18 1 8 154362 20200329121735
+54.193.72.129 1 1 16173 20200323121354
+144.91.102.181 0 1 68766 
+31.13.115.7 0 1 7135468 
+173.252.95.36 0 2 15189 
+34.211.54.231 1 1 16173 20200319223155
+69.171.251.27 0 1 7135468 
+69.171.251.10 0 7 116439 
+69.171.251.13 0 7 70784 
+82.80.249.164 0 7 79612 
+82.80.249.157 0 4 141115 
+92.204.50.32 1 1 16173 20200322125916
+173.252.95.45 0 2 6443482 
+31.13.127.20 0 2 7204234 
+31.13.115.6 0 7 156869 
+69.171.251.8 1 18 197730 20200324223434
+31.13.115.20 0 1 68766 
+141.164.88.249 1 1 16173 20200318214943
+31.13.127.21 0 3 30396 
+82.80.249.133 0 7 133934 
+31.13.115.14 0 2 5603 
+31.13.115.18 1 4 41566 20200329072618
+69.171.251.23 0 10 198413 
+173.252.95.33 0 8 118605 
+31.13.115.21 0 1 4399 
+31.13.127.18 0 3 6927 
+173.252.95.28 0 2 6445487 
+138.197.148.140 1 1 0 20200316183005
+18.237.42.245 1 1 16173 20200322000952
+163.172.182.111 1 1 16173 20200327181404
+69.171.251.24 0 1 68766 
+31.13.127.23 0 6 217899 
+3.227.170.71 2 2 32346 20200326154356
+62.210.80.93 1 1 16173 20200322153950
+69.171.251.41 0 2 8798 
+35.222.43.215 1 1 16173 20200326142307
+31.13.115.23 0 1 1285 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20200316 43 657 321674352 16
+20200317 42 43 685228 6
+20200318 8 9 130485 3
+20200319 2 47 28574556 2
+20200320 2 51 14960187 2
+20200321 3 3 32346 2
+20200322 6 35 14929635 5
+20200323 2 20 251626 2
+20200324 9 53 15456379 5
+20200325 39 40 700036 4
+20200326 43 140 3887294 5
+20200327 51 226 102904573 8
+20200328 10 108 72745883 3
+20200329 6 95 68641834 4
+20200330 6 6 544543 3
+20200331 5 5 259867 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30s-2mn 5
+5mn-15mn 1
+30mn-1h 1
+0s-30s 63
+15mn-30mn 1
+2mn-5mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 38
+/ 107 2748467 75 66
+/college-application-essay-writing.html 7 110985 0 2
+/dashboard-gnome.html 7 101915 0 1
+/coursework-writing.html 7 112595 0 0
+/case-study-writing-service.html 7 123970 0 0
+/dashboard.html 6 35502 0 3
+/term-papers-writing-services.html 6 93300 0 0
+/scholarship-essay-writing-service.html 6 106296 0 0
+/research-paper-editing-service.html 6 106302 0 0
+/research-papers-writing-services.html 6 99906 0 0
+/do-my-homework.html 5 90060 0 0
+/write-my-dissertation.html 5 88565 0 0
+/do-my-assignment.html 5 88560 0 1
+/pay-for-essays.html 5 89945 0 0
+/pay-for-research-papers.html 5 88575 0 0
+/powerpoint-presentations-writing-service.html 5 88550 0 1
+/essay-writing-help-online.html 5 75200 0 0
+/essay-editing-service.html 5 88595 0 0
+/dissertation-editing.html 5 88590 0 0
+/thesis-writing-help.html 5 88550 0 0
+/annotated-bibliography-writing-service.html 4 70800 0 0
+/business-plan-writing-service.html 4 70844 0 0
+/speech-writing-service.html 4 70856 0 0
+/math-problems-writing-service.html 4 70844 0 0
+/college-papers-for-sale.html 4 71964 0 0
+/account-orders.html 2 12196 0 0
+/past-orders-gnome.html 2 12452 0 0
+/hire-writer.html 2 15728 0 0
+/find-work-gnome.html 2 13804 0 0
+/dissertation-writing-services.html 4 67552 0 0
+/book-movie-review-writing.html 4 70840 0 0
+/write-my-essay.html 4 71956 0 0
+/research-proposal-writing-service.html 4 70844 0 0
+/capstone-project-writing-service.html 4 70848 0 0
+/billing-information.html 2 18470 0 1
+/lab-report-writing-service.html 4 70856 0 0
+/buy-an-essay-online.html 4 70864 0 0
+/correct-my-essay.html 4 70860 0 0
+END_SIDER

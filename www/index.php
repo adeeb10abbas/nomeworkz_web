@@ -409,6 +409,7 @@ var hireWriterPopupRun = function()
                             <img src="files/headphones.png" class="advantages__img lazy">
                         </div>
                         <h3 class="advantages__title">Unlimited Support 24/7</h3>
+                    </div>
                     <div class="advantages__item">
                         <div class="advantages__img_div">
                             <img src="files/approval.png" class="advantages__img lazy">

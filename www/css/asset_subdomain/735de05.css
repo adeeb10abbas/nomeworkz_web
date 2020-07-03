@@ -541,6 +541,14 @@ p {
     clear: both
 }
 
+.mini-row .h3_fz_s{
+    color:white;
+}
+
+.mini-row .h1_fz_xxs{
+    color:white;
+}
+
 @media only screen and (min-width: 600px) {
     .inner-content_profile {
         margin-top: -10px;
@@ -5118,6 +5126,10 @@ only screen and (max-width: 806px) and (min-resolution: 192dpi) {
 
 .section-v2_whats-included {
     background-color: rgba(4, 82, 129, 0.05)
+}
+
+.section-v2.no-hr .section-v2__title, .section-v2__title_no-hr {
+    color: white;
 }
 
 .section-v2_map {

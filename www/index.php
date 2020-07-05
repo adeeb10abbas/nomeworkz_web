@@ -397,28 +397,24 @@ var hireWriterPopupRun = function()
                             <img src="files/thumbs-up.png" class="advantages__img lazy">
                         </div>
                         <h3 class="advantages__title">Customer Satisfaction Guaranteed</h3>
-                        <p class="advantages__description">Only pay after getting the perfect paper. No revision limits.</p>
                     </div>
                     <div class="advantages__item">
                         <div class="advantages__img_div">
                             <img src="files/clock.png" class="advantages__img lazy">
                         </div>
                         <h3 class="advantages__title">Get Quick Results</h3>
-                        <p class="advantages__description">We have over 450 dedicated essay writers who will happily write your essay even with 3 hrs. deadline.</p>
                     </div>
                     <div class="advantages__item">
                         <div class="advantages__img_div">
                             <img src="files/headphones.png" class="advantages__img lazy">
                         </div>
                         <h3 class="advantages__title">Unlimited Support 24/7</h3>
-                        <p class="advantages__description">We can proudly say that our response time to a customer request is less than a minute.</p>
                     </div>
                     <div class="advantages__item">
                         <div class="advantages__img_div">
                             <img src="files/approval.png" class="advantages__img lazy">
                         </div>
                         <h3 class="advantages__title">All papers double-checked</h3>
-                        <p class="advantages__description">First we check the web. Secondly, we check our own database of completed orders so you know you’ll have original work every time.</p>
                     </div>
                 </div>
             </div>
@@ -493,7 +489,7 @@ var hireWriterPopupRun = function()
         <section class="block__read_more" id="about">
             <div class="row read_more_text_wrapper">
                 <div class="read_more_text_visible">
-                    <h1 class="h1">NOMEWORKZ: THE ESSAY WRITING SERVICE YOU CAN TRUST</h1>
+                    <h1 class="h1">NOMEWORKZ: THE WRITING SERVICE YOU CAN TRUST</h1>
                     <span class="lines"></span>
                     <p>Sometimes things just don't go as planned. You miss deadlines, spend much time for research,
                         cannot come up with an interesting topic or have no time to properly edit the text before submission.
